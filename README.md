@@ -1,29 +1,89 @@
-#Introduction:
+# PokeBot
 
-Facebook recently opened up their Messenger platform to enable bots to converse with users through Facebook Apps and on Facebook Pages. With Recast.AI you will be able to create a conversational bot meaning it will understand natural language.
-Here is how to create your own messenger bot with Recast.AI and Microsoft bot connector in 1 hour.
-PokeBot tell you informations about pokemons, their moves, resistance and weakness, the way they evolves etc…
+This Pokedex bot is powered by Natural Language Processsing (NLP) with [Recast.AI](https://recast.ai) and can be connected to both Slack, Messenger or Kik.
 
-![Screen Pokebot](./pictures/recast-ai-info-pikachu.png)
+#### You have 3 different ways to use PokeBot:
 
-###Tools:
+- Use it straight away [here](https://www.facebook.com/Pokebot-1549503468692232/)
+- Follow the following procedure to run it by yourself on your computer.
+- Make your own one from A to Z with the [tutorial](https://github.com/RecastAI/Pokebot/wiki).
 
-- Microsoft Bot connector will connect the bot to channels like Messenger or slack.
-- Recast.AI will understand the messages you’ll send to your bot
-- PokeApi will provide us all the informations we need about Pokemons
+## Get your Recast Bot Token
 
-###Requirements:
+* Log in to your recast account
+* Go to [Pokebot](https://recast.ai/hugo-cherchi/pokebotv2/core)
+* Click on the 'Fork the Bot' Button
+* Then on your profile, choose your fresh forked Bot
+* On the bottom, in the curl request is your precious Token
 
-- Create an account on Recast.AI
-- Create a Microsoft account
+## Get your Microsoft secret
 
-###Links:
+* Create an account on [Microsoft Bot Framework](https://dev.botframework.com/)
+* Create a new Bot and follow the procedure. The callback Url you have to put will be explain later.
+* During the process, you'll have to create a Microsoft App: keep your Secret and AppId, they will be used later
+* Follow the differents steps for every channel you want to add.
 
-- Try PokeBot on Messenger [here](https://www.facebook.com/Pokebot-1549503468692232/)
-- See the Bot on Github [here](https://github.com/recastAI)
-- See the Bot on Recast.AI [here](https://recast.ai/hugo-cherchi/pokebotv2)
+## Put your local server Online
 
-###Get started:
+```
+./ngrok http 8080
+```
 
-    mkdir PokeBot && cd PokeBot
-    npm init
+this terminal is now used by ngrok and you can see your full Url that is required on microsoft bot Platform
+
+## Launch Pokebot
+
+#### Complete the config.js
+
+* Clone this Repository
+
+```
+git clone https://github.com/hcherchi/PokeBot.git
+```
+
+* Fill the config.js with your Tokens
+
+```
+var tokens =
+{
+	recast: 'Recast Token',
+	AppId: 'Application Id',
+	Secret: 'Your Microsoft Secret',
+}
+```
+
+#### Run
+
+* install the dependencies
+
+```
+npm install
+```
+
+* run Pokebot
+
+```
+node pokebot.js
+```
+
+## Use Pokebot
+
+
+![Alt text](./pictures/recast-ai-info-pikachu.png)
+
+
+Your can :
+
+* Ask informations about a specific Pokemon
+
+* Ask resist and strengh about a specific type
+
+* Ask Stats about a specific Pokemon
+
+* Ask Moves a specific Pokemon can learn
+
+* Ask informations about a specific move
+
+* Ask about the family of a specific Pokemon
+
+* Ask for a random Pokemon of a certain type
