@@ -76,7 +76,7 @@ Your can :
 
 * Ask informations about a specific Pokemon
 
-* Ask resist and strengh about a specific type
+* Ask resist and strengh about a specific Pokemon
 
 * Ask Stats about a specific Pokemon
 
