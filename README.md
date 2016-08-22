@@ -12,17 +12,17 @@ Microsoft Bot connector will connect the bot to channels like Messenger or slack
 Recast.AI will understand the messages you’ll send to your bot
 PokeApi will provide us all the informations we need about Pokemons
 
-##Requirements:
+###Requirements:
 
 Create an account on Recast.AI
 Create a Microsoft account
 Links:
 
-*Try PokeBot on Messenger here
-*See the Bot on Github here
-*See the Bot on Recast.AI here
+- Try PokeBot on Messenger here
+- See the Bot on Github here
+- See the Bot on Recast.AI here
 
-##Get started:
+###Get started:
 
   mkdir PokeBot && cd PokeBot
   npm init
