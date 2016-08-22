@@ -6,7 +6,7 @@ PokeBot tell you informations about pokemons, their moves, resistance and weakne
 
 ![Screen Pokebot](./pictures/recast-ai-info-pikachu.png)
 
-##Tools:
+###Tools:
 
 Microsoft Bot connector will connect the bot to channels like Messenger or slack.
 Recast.AI will understand the messages you’ll send to your bot
@@ -19,9 +19,9 @@ Create a Microsoft account
 
 ###Links:
 
-- Try PokeBot on Messenger here
-- See the Bot on Github here
-- See the Bot on Recast.AI here
+- Try PokeBot on Messenger [here](https://www.facebook.com/Pokebot-1549503468692232/)
+- See the Bot on Github [here](https://github.com/recastAI)
+- See the Bot on Recast.AI [here](https://recast.ai/hugo-cherchi/pokebotv2)
 
 ###Get started:
 
