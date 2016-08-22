@@ -25,5 +25,5 @@ PokeBot tell you informations about pokemons, their moves, resistance and weakne
 
 ###Get started:
 
-  mkdir PokeBot && cd PokeBot
-  npm init
+    mkdir PokeBot && cd PokeBot
+    npm init
