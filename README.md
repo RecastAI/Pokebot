@@ -8,14 +8,14 @@ PokeBot tell you informations about pokemons, their moves, resistance and weakne
 
 ###Tools:
 
-Microsoft Bot connector will connect the bot to channels like Messenger or slack.
-Recast.AI will understand the messages you’ll send to your bot
-PokeApi will provide us all the informations we need about Pokemons
+- Microsoft Bot connector will connect the bot to channels like Messenger or slack.
+- Recast.AI will understand the messages you’ll send to your bot
+- PokeApi will provide us all the informations we need about Pokemons
 
 ###Requirements:
 
-Create an account on Recast.AI
-Create a Microsoft account
+- Create an account on Recast.AI
+- Create a Microsoft account
 
 ###Links:
 
