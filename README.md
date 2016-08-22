@@ -4,7 +4,7 @@ Facebook recently opened up their Messenger platform to enable bots to converse 
 Here is how to create your own messenger bot with Recast.AI and Microsoft bot connector in 1 hour.
 PokeBot tell you informations about pokemons, their moves, resistance and weakness, the way they evolves etc…
 
-![Screen Pokebot](./picture/recast-ai-info-pikachu.png)
+![Screen Pokebot](./pictures/recast-ai-info-pikachu.png)
 
 ##Tools:
 
