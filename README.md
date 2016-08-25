@@ -6,11 +6,11 @@ This Pokedex bot is powered by Natural Language Processsing (NLP) with [Recast.A
 
 - Use it straight away [here](https://www.facebook.com/Pokebot-1549503468692232/)
 - Follow the following procedure to run it by yourself on your computer.
-- Make your own one from A to Z with the [tutorial](https://github.com/RecastAI/Pokebot/wiki).
+- Make your own simple version of it from A to Z with the [tutorial](https://github.com/RecastAI/Pokebot/wiki).
 
-## Get your Recast Bot Token
+## Get your Recast.AI Bot Token
 
-* Log in to your recast account
+* Log in to your Recast.AI account
 * Go to [Pokebot](https://recast.ai/hugo-cherchi/pokebotv2/core)
 * Click on the 'Fork the Bot' Button
 * Then on your profile, choose your fresh forked Bot
