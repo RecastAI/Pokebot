@@ -63,7 +63,8 @@ npm install
 * run Pokebot
 
 ```
-node pokebot.js
+npm run build
+npm run start
 ```
 
 ## Use Pokebot

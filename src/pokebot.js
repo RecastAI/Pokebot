@@ -34,10 +34,12 @@ const getUser = (address, session) => {
 // MESSAGE RECEIVED
 bot.dialog('/', (session) => {
   const user = getUser(session.message.address, session)
-  recastClient.textRequest(session.message.text, (res, err) => {
-    if (err) {
-      session.send('I need some sleep right now... Talk to me later!')
-    } else { handleMessage(session, res, user) }
+  recastClient.textRequest(session.message.text)
+  .then((res) => {
+    handleMessage(session, res, user)
+  })
+  .catch(() => {
+    session.send('I need some sleep right now... Talk to me later!')
   })
 })
 

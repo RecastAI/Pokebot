@@ -80,7 +80,10 @@ const checkEntity = (recast) => {
     const match = fmtypes.get(poketype.raw)
     if (match.distance < 0.7) {
       poketype.name = 'wrong'
-    } else { poketype.raw = match.value }
+    } else {
+      poketype.name = 'poketype'
+      poketype.raw = match.value
+    }
     return poketype
   } else if (pokemon) {
     const splitPoke = pokemon.raw.split(/[ -]/)
@@ -88,13 +91,19 @@ const checkEntity = (recast) => {
     const match = fmpokemons.get(pokemon.raw)
     if (match.distance < 0.7) {
       pokemon.name = 'wrong'
-    } else { pokemon.raw = match.value }
+    } else {
+      pokemon.name = 'pokemon'
+      pokemon.raw = match.value
+    }
     return pokemon
   } else if (pokeattack) {
     const match = fmmoves.get(pokeattack.raw)
     if (match.distance < 0.7) {
       pokeattack.name = 'wrong'
-    } else { pokeattack.raw = match.value }
+    } else {
+      pokeattack.name = 'pokeattack'
+      pokeattack.raw = match.value
+    }
     return pokeattack
   }
   return null
@@ -120,7 +129,9 @@ const checkWords = (words) => {
         entity.name = 'pokemon'
       } else if (matches.indexOf(bestMatch) === 1 || matches.indexOf(bestMatch) === 3) {
         entity.name = 'pokeattack'
-      } else if (matches.indexOf(bestMatch) === 2) { entity.name = 'poketype' }
+      } else if (matches.indexOf(bestMatch) === 2) {
+        entity.name = 'poketype'
+      }
     }
     wordbefore = word
   })
