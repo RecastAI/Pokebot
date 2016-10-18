@@ -47,7 +47,7 @@
     "fuzzy-matching": "^0.4.3",
     "lodash": "^4.13.1",
     "mongoose": "^4.5.5",
-    "recastai": "^1.0.2",
+    "recastai": "^2.2.1",
     "restify": "^4.1.1",
     "superagent": "^2.1.0"
   }

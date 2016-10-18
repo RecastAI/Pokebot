@@ -46,4 +46,4 @@ bot.dialog('/', (session) => {
 // Setup Restify Server
 const server = restify.createServer()
 server.listen(config.port)
-server.post('/api/messages', connector.listen())
+server.post('/', connector.listen())

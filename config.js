@@ -1,7 +1,7 @@
 const config = {
-  recast: 'Recast token',
-  appid: 'Microsoft App ID',
-  secret: 'Microsoft App secret',
+  recast: 'RECAST REQUEST TOKEN',
+  appid: 'MICROSOFT APP ID',
+  secret: 'MICROSOFT APP SECRET',
   port: 8080,
 }
 

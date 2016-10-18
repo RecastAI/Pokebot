@@ -54,18 +54,18 @@ const handleMessage = (session, res, user) => {
   if (!intent) {
     if (!entity) { entity = checkWords(u.cleanText(res.source)) }
     if (entity && entity.name === 'pokemon') {
-      intent = user.intent
+      intent.slug = user.intent
     } else if (entity && entity.name === 'poketype') {
-      intent = 'random'
+      intent.slug = 'random'
     } else if (entity && entity.name === 'pokeattack') {
-      intent = 'infomove'
+      intent.slug = 'infomove'
     } else {
       session.send(notFoundAnswer)
     }
   }
-  if (intent && noMemoryIntents.indexOf(intent) === -1) { user.intent = intent }
-  if (intent && !(user.new && intent === 'greetings')) {
-    INTENTS[intent](entity, user)
+  if (intent && noMemoryIntents.indexOf(intent.slug) === -1) { user.intent = intent.slug }
+  if (intent && !(user.new && intent.slug === 'greetings')) {
+    INTENTS[intent.slug](entity, user)
     .then((reply) => { reply.forEach((message) => actionsByMessageType[message.type](session, message)) })
     .catch((error) => { error.forEach((message) => actionsByMessageType[message.type](session, message)) })
   }
