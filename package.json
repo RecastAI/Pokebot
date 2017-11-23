@@ -1,54 +1,15 @@
 {
-  "name": "Pokebot",
+  "name": "pokebot-v2",
   "version": "1.0.0",
-  "description": "When pokedex become real.",
-  "main": "pokebot.js",
+  "main": "src/index.js",
+  "author": "Nathan Grasset <nathan.grasset@recast.ai>",
+  "license": "MIT",
   "scripts": {
-    "start": "node lib/pokebot.js",
-    "lint": "eslint src",
-    "build": "babel src -d lib",
-    "test": "ava"
+    "start": "node src/index.js"
   },
-  "eslintConfig": {
-    "extends": [
-      "zavatta"
-    ],
-    "rules": {
-      "prefer-template": 0
-    },
-    "globals": {
-      "Promise": false
-    }
-  },
-  "babel": {
-    "presets": [
-      "es2015",
-      "stage-0"
-    ]
-  },
-  "ava": {
-    "require": [
-      "babel-register"
-    ]
-  },
-  "author": "hcherchi",
-  "license": "ISC",
   "dependencies": {
-    "ava": "^0.16.0",
-    "babel-cli": "^6.11.4",
-    "babel-eslint": "^6.1.2",
-    "babel-preset-es2015": "^6.13.2",
-    "babel-preset-stage-0": "^6.5.0",
-    "babel-register": "^6.11.6",
-    "botbuilder": "^3.1.1",
-    "eslint": "^3.2.2",
-    "eslint-config-zavatta": "^4.2.0",
-    "eslint-plugin-import": "^1.12.0",
-    "fuzzy-matching": "^0.4.3",
-    "lodash": "^4.13.1",
-    "mongoose": "^4.5.5",
-    "recastai": "^2.2.1",
-    "restify": "^4.1.1",
-    "superagent": "^2.1.0"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4"
   }
 }
