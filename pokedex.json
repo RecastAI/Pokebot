@@ -10,7 +10,7 @@
       "poison"
     ],
     "name": "Bulbasaur",
-    "image": "https://cdn.recast.ai/blog/pokebot/1.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/1.png",
     "evolutions": [
       {
         "id": 1,
@@ -43,7 +43,7 @@
       "poison"
     ],
     "name": "Ivysaur",
-    "image": "https://cdn.recast.ai/blog/pokebot/2.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/2.png",
     "evolutions": [
       {
         "id": 1,
@@ -76,7 +76,7 @@
       "poison"
     ],
     "name": "Venusaur",
-    "image": "https://cdn.recast.ai/blog/pokebot/3.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/3.png",
     "evolutions": [
       {
         "id": 1,
@@ -108,7 +108,7 @@
       "fire"
     ],
     "name": "Charmander",
-    "image": "https://cdn.recast.ai/blog/pokebot/4.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/4.png",
     "evolutions": [
       {
         "id": 4,
@@ -140,7 +140,7 @@
       "fire"
     ],
     "name": "Charmeleon",
-    "image": "https://cdn.recast.ai/blog/pokebot/5.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/5.png",
     "evolutions": [
       {
         "id": 4,
@@ -173,7 +173,7 @@
       "flying"
     ],
     "name": "Charizard",
-    "image": "https://cdn.recast.ai/blog/pokebot/6.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/6.png",
     "evolutions": [
       {
         "id": 4,
@@ -205,7 +205,7 @@
       "water"
     ],
     "name": "Squirtle",
-    "image": "https://cdn.recast.ai/blog/pokebot/7.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/7.png",
     "evolutions": [
       {
         "id": 7,
@@ -237,7 +237,7 @@
       "water"
     ],
     "name": "Wartortle",
-    "image": "https://cdn.recast.ai/blog/pokebot/8.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/8.png",
     "evolutions": [
       {
         "id": 7,
@@ -269,7 +269,7 @@
       "water"
     ],
     "name": "Blastoise",
-    "image": "https://cdn.recast.ai/blog/pokebot/9.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/9.png",
     "evolutions": [
       {
         "id": 7,
@@ -301,7 +301,7 @@
       "bug"
     ],
     "name": "Caterpie",
-    "image": "https://cdn.recast.ai/blog/pokebot/10.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/10.png",
     "evolutions": [
       {
         "id": 10,
@@ -333,7 +333,7 @@
       "bug"
     ],
     "name": "Metapod",
-    "image": "https://cdn.recast.ai/blog/pokebot/11.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/11.png",
     "evolutions": [
       {
         "id": 10,
@@ -366,7 +366,7 @@
       "flying"
     ],
     "name": "Butterfree",
-    "image": "https://cdn.recast.ai/blog/pokebot/12.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/12.png",
     "evolutions": [
       {
         "id": 10,
@@ -399,7 +399,7 @@
       "poison"
     ],
     "name": "Weedle",
-    "image": "https://cdn.recast.ai/blog/pokebot/13.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/13.png",
     "evolutions": [
       {
         "id": 13,
@@ -432,7 +432,7 @@
       "poison"
     ],
     "name": "Kakuna",
-    "image": "https://cdn.recast.ai/blog/pokebot/14.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/14.png",
     "evolutions": [
       {
         "id": 13,
@@ -465,7 +465,7 @@
       "poison"
     ],
     "name": "Beedrill",
-    "image": "https://cdn.recast.ai/blog/pokebot/15.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/15.png",
     "evolutions": [
       {
         "id": 13,
@@ -498,7 +498,7 @@
       "flying"
     ],
     "name": "Pidgey",
-    "image": "https://cdn.recast.ai/blog/pokebot/16.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/16.png",
     "evolutions": [
       {
         "id": 16,
@@ -531,7 +531,7 @@
       "flying"
     ],
     "name": "Pidgeotto",
-    "image": "https://cdn.recast.ai/blog/pokebot/17.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/17.png",
     "evolutions": [
       {
         "id": 16,
@@ -564,7 +564,7 @@
       "flying"
     ],
     "name": "Pidgeot",
-    "image": "https://cdn.recast.ai/blog/pokebot/18.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/18.png",
     "evolutions": [
       {
         "id": 16,
@@ -596,7 +596,7 @@
       "normal"
     ],
     "name": "Rattata",
-    "image": "https://cdn.recast.ai/blog/pokebot/19.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/19.png",
     "evolutions": [
       {
         "id": 19,
@@ -621,7 +621,7 @@
       "normal"
     ],
     "name": "Raticate",
-    "image": "https://cdn.recast.ai/blog/pokebot/20.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/20.png",
     "evolutions": [
       {
         "id": 19,
@@ -647,7 +647,7 @@
       "flying"
     ],
     "name": "Spearow",
-    "image": "https://cdn.recast.ai/blog/pokebot/21.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/21.png",
     "evolutions": [
       {
         "id": 21,
@@ -673,7 +673,7 @@
       "flying"
     ],
     "name": "Fearow",
-    "image": "https://cdn.recast.ai/blog/pokebot/22.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/22.png",
     "evolutions": [
       {
         "id": 21,
@@ -698,7 +698,7 @@
       "poison"
     ],
     "name": "Ekans",
-    "image": "https://cdn.recast.ai/blog/pokebot/23.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/23.png",
     "evolutions": [
       {
         "id": 23,
@@ -723,7 +723,7 @@
       "poison"
     ],
     "name": "Arbok",
-    "image": "https://cdn.recast.ai/blog/pokebot/24.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/24.png",
     "evolutions": [
       {
         "id": 23,
@@ -748,7 +748,7 @@
       "electric"
     ],
     "name": "Pikachu",
-    "image": "https://cdn.recast.ai/blog/pokebot/25.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/25.png",
     "evolutions": [
       {
         "id": 172,
@@ -779,7 +779,7 @@
       "electric"
     ],
     "name": "Raichu",
-    "image": "https://cdn.recast.ai/blog/pokebot/26.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/26.png",
     "evolutions": [
       {
         "id": 172,
@@ -810,7 +810,7 @@
       "ground"
     ],
     "name": "Sandshrew",
-    "image": "https://cdn.recast.ai/blog/pokebot/27.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/27.png",
     "evolutions": [
       {
         "id": 27,
@@ -835,7 +835,7 @@
       "ground"
     ],
     "name": "Sandslash",
-    "image": "https://cdn.recast.ai/blog/pokebot/28.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/28.png",
     "evolutions": [
       {
         "id": 27,
@@ -860,7 +860,7 @@
       "poison"
     ],
     "name": "Nidoran-f",
-    "image": "https://cdn.recast.ai/blog/pokebot/29.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/29.png",
     "evolutions": [
       {
         "id": 29,
@@ -892,7 +892,7 @@
       "poison"
     ],
     "name": "Nidorina",
-    "image": "https://cdn.recast.ai/blog/pokebot/30.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/30.png",
     "evolutions": [
       {
         "id": 29,
@@ -925,7 +925,7 @@
       "ground"
     ],
     "name": "Nidoqueen",
-    "image": "https://cdn.recast.ai/blog/pokebot/31.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/31.png",
     "evolutions": [
       {
         "id": 29,
@@ -957,7 +957,7 @@
       "poison"
     ],
     "name": "Nidoran-m",
-    "image": "https://cdn.recast.ai/blog/pokebot/32.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/32.png",
     "evolutions": [
       {
         "id": 32,
@@ -989,7 +989,7 @@
       "poison"
     ],
     "name": "Nidorino",
-    "image": "https://cdn.recast.ai/blog/pokebot/33.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/33.png",
     "evolutions": [
       {
         "id": 32,
@@ -1022,7 +1022,7 @@
       "ground"
     ],
     "name": "Nidoking",
-    "image": "https://cdn.recast.ai/blog/pokebot/34.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/34.png",
     "evolutions": [
       {
         "id": 32,
@@ -1054,7 +1054,7 @@
       "fairy"
     ],
     "name": "Clefairy",
-    "image": "https://cdn.recast.ai/blog/pokebot/35.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/35.png",
     "evolutions": [
       {
         "id": 173,
@@ -1085,7 +1085,7 @@
       "fairy"
     ],
     "name": "Clefable",
-    "image": "https://cdn.recast.ai/blog/pokebot/36.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/36.png",
     "evolutions": [
       {
         "id": 173,
@@ -1116,7 +1116,7 @@
       "fire"
     ],
     "name": "Vulpix",
-    "image": "https://cdn.recast.ai/blog/pokebot/37.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/37.png",
     "evolutions": [
       {
         "id": 37,
@@ -1141,7 +1141,7 @@
       "fire"
     ],
     "name": "Ninetales",
-    "image": "https://cdn.recast.ai/blog/pokebot/38.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/38.png",
     "evolutions": [
       {
         "id": 37,
@@ -1167,7 +1167,7 @@
       "fairy"
     ],
     "name": "Jigglypuff",
-    "image": "https://cdn.recast.ai/blog/pokebot/39.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/39.png",
     "evolutions": [
       {
         "id": 174,
@@ -1199,7 +1199,7 @@
       "fairy"
     ],
     "name": "Wigglytuff",
-    "image": "https://cdn.recast.ai/blog/pokebot/40.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/40.png",
     "evolutions": [
       {
         "id": 174,
@@ -1231,7 +1231,7 @@
       "flying"
     ],
     "name": "Zubat",
-    "image": "https://cdn.recast.ai/blog/pokebot/41.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/41.png",
     "evolutions": [
       {
         "id": 41,
@@ -1263,7 +1263,7 @@
       "flying"
     ],
     "name": "Golbat",
-    "image": "https://cdn.recast.ai/blog/pokebot/42.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/42.png",
     "evolutions": [
       {
         "id": 41,
@@ -1295,7 +1295,7 @@
       "poison"
     ],
     "name": "Oddish",
-    "image": "https://cdn.recast.ai/blog/pokebot/43.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/43.png",
     "evolutions": [
       {
         "id": 43,
@@ -1335,7 +1335,7 @@
       "poison"
     ],
     "name": "Gloom",
-    "image": "https://cdn.recast.ai/blog/pokebot/44.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/44.png",
     "evolutions": [
       {
         "id": 43,
@@ -1375,7 +1375,7 @@
       "poison"
     ],
     "name": "Vileplume",
-    "image": "https://cdn.recast.ai/blog/pokebot/45.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/45.png",
     "evolutions": [
       {
         "id": 43,
@@ -1415,7 +1415,7 @@
       "grass"
     ],
     "name": "Paras",
-    "image": "https://cdn.recast.ai/blog/pokebot/46.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/46.png",
     "evolutions": [
       {
         "id": 46,
@@ -1441,7 +1441,7 @@
       "grass"
     ],
     "name": "Parasect",
-    "image": "https://cdn.recast.ai/blog/pokebot/47.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/47.png",
     "evolutions": [
       {
         "id": 46,
@@ -1467,7 +1467,7 @@
       "poison"
     ],
     "name": "Venonat",
-    "image": "https://cdn.recast.ai/blog/pokebot/48.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/48.png",
     "evolutions": [
       {
         "id": 48,
@@ -1493,7 +1493,7 @@
       "poison"
     ],
     "name": "Venomoth",
-    "image": "https://cdn.recast.ai/blog/pokebot/49.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/49.png",
     "evolutions": [
       {
         "id": 48,
@@ -1518,7 +1518,7 @@
       "ground"
     ],
     "name": "Diglett",
-    "image": "https://cdn.recast.ai/blog/pokebot/50.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/50.png",
     "evolutions": [
       {
         "id": 50,
@@ -1543,7 +1543,7 @@
       "ground"
     ],
     "name": "Dugtrio",
-    "image": "https://cdn.recast.ai/blog/pokebot/51.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/51.png",
     "evolutions": [
       {
         "id": 50,
@@ -1568,7 +1568,7 @@
       "normal"
     ],
     "name": "Meowth",
-    "image": "https://cdn.recast.ai/blog/pokebot/52.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/52.png",
     "evolutions": [
       {
         "id": 52,
@@ -1593,7 +1593,7 @@
       "normal"
     ],
     "name": "Persian",
-    "image": "https://cdn.recast.ai/blog/pokebot/53.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/53.png",
     "evolutions": [
       {
         "id": 52,
@@ -1618,7 +1618,7 @@
       "water"
     ],
     "name": "Psyduck",
-    "image": "https://cdn.recast.ai/blog/pokebot/54.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/54.png",
     "evolutions": [
       {
         "id": 54,
@@ -1643,7 +1643,7 @@
       "water"
     ],
     "name": "Golduck",
-    "image": "https://cdn.recast.ai/blog/pokebot/55.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/55.png",
     "evolutions": [
       {
         "id": 54,
@@ -1668,7 +1668,7 @@
       "fighting"
     ],
     "name": "Mankey",
-    "image": "https://cdn.recast.ai/blog/pokebot/56.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/56.png",
     "evolutions": [
       {
         "id": 56,
@@ -1693,7 +1693,7 @@
       "fighting"
     ],
     "name": "Primeape",
-    "image": "https://cdn.recast.ai/blog/pokebot/57.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/57.png",
     "evolutions": [
       {
         "id": 56,
@@ -1718,7 +1718,7 @@
       "fire"
     ],
     "name": "Growlithe",
-    "image": "https://cdn.recast.ai/blog/pokebot/58.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/58.png",
     "evolutions": [
       {
         "id": 58,
@@ -1743,7 +1743,7 @@
       "fire"
     ],
     "name": "Arcanine",
-    "image": "https://cdn.recast.ai/blog/pokebot/59.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/59.png",
     "evolutions": [
       {
         "id": 58,
@@ -1768,7 +1768,7 @@
       "water"
     ],
     "name": "Poliwag",
-    "image": "https://cdn.recast.ai/blog/pokebot/60.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/60.png",
     "evolutions": [
       {
         "id": 60,
@@ -1806,7 +1806,7 @@
       "water"
     ],
     "name": "Poliwhirl",
-    "image": "https://cdn.recast.ai/blog/pokebot/61.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/61.png",
     "evolutions": [
       {
         "id": 60,
@@ -1845,7 +1845,7 @@
       "fighting"
     ],
     "name": "Poliwrath",
-    "image": "https://cdn.recast.ai/blog/pokebot/62.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/62.png",
     "evolutions": [
       {
         "id": 60,
@@ -1883,7 +1883,7 @@
       "psychic"
     ],
     "name": "Abra",
-    "image": "https://cdn.recast.ai/blog/pokebot/63.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/63.png",
     "evolutions": [
       {
         "id": 63,
@@ -1914,7 +1914,7 @@
       "psychic"
     ],
     "name": "Kadabra",
-    "image": "https://cdn.recast.ai/blog/pokebot/64.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/64.png",
     "evolutions": [
       {
         "id": 63,
@@ -1945,7 +1945,7 @@
       "psychic"
     ],
     "name": "Alakazam",
-    "image": "https://cdn.recast.ai/blog/pokebot/65.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/65.png",
     "evolutions": [
       {
         "id": 63,
@@ -1976,7 +1976,7 @@
       "fighting"
     ],
     "name": "Machop",
-    "image": "https://cdn.recast.ai/blog/pokebot/66.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/66.png",
     "evolutions": [
       {
         "id": 66,
@@ -2007,7 +2007,7 @@
       "fighting"
     ],
     "name": "Machoke",
-    "image": "https://cdn.recast.ai/blog/pokebot/67.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/67.png",
     "evolutions": [
       {
         "id": 66,
@@ -2038,7 +2038,7 @@
       "fighting"
     ],
     "name": "Machamp",
-    "image": "https://cdn.recast.ai/blog/pokebot/68.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/68.png",
     "evolutions": [
       {
         "id": 66,
@@ -2070,7 +2070,7 @@
       "poison"
     ],
     "name": "Bellsprout",
-    "image": "https://cdn.recast.ai/blog/pokebot/69.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/69.png",
     "evolutions": [
       {
         "id": 69,
@@ -2103,7 +2103,7 @@
       "poison"
     ],
     "name": "Weepinbell",
-    "image": "https://cdn.recast.ai/blog/pokebot/70.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/70.png",
     "evolutions": [
       {
         "id": 69,
@@ -2136,7 +2136,7 @@
       "poison"
     ],
     "name": "Victreebel",
-    "image": "https://cdn.recast.ai/blog/pokebot/71.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/71.png",
     "evolutions": [
       {
         "id": 69,
@@ -2169,7 +2169,7 @@
       "poison"
     ],
     "name": "Tentacool",
-    "image": "https://cdn.recast.ai/blog/pokebot/72.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/72.png",
     "evolutions": [
       {
         "id": 72,
@@ -2195,7 +2195,7 @@
       "poison"
     ],
     "name": "Tentacruel",
-    "image": "https://cdn.recast.ai/blog/pokebot/73.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/73.png",
     "evolutions": [
       {
         "id": 72,
@@ -2221,7 +2221,7 @@
       "ground"
     ],
     "name": "Geodude",
-    "image": "https://cdn.recast.ai/blog/pokebot/74.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/74.png",
     "evolutions": [
       {
         "id": 74,
@@ -2253,7 +2253,7 @@
       "ground"
     ],
     "name": "Graveler",
-    "image": "https://cdn.recast.ai/blog/pokebot/75.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/75.png",
     "evolutions": [
       {
         "id": 74,
@@ -2285,7 +2285,7 @@
       "ground"
     ],
     "name": "Golem",
-    "image": "https://cdn.recast.ai/blog/pokebot/76.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/76.png",
     "evolutions": [
       {
         "id": 74,
@@ -2316,7 +2316,7 @@
       "fire"
     ],
     "name": "Ponyta",
-    "image": "https://cdn.recast.ai/blog/pokebot/77.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/77.png",
     "evolutions": [
       {
         "id": 77,
@@ -2341,7 +2341,7 @@
       "fire"
     ],
     "name": "Rapidash",
-    "image": "https://cdn.recast.ai/blog/pokebot/78.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/78.png",
     "evolutions": [
       {
         "id": 77,
@@ -2367,7 +2367,7 @@
       "psychic"
     ],
     "name": "Slowpoke",
-    "image": "https://cdn.recast.ai/blog/pokebot/79.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/79.png",
     "evolutions": [
       {
         "id": 79,
@@ -2399,7 +2399,7 @@
       "psychic"
     ],
     "name": "Slowbro",
-    "image": "https://cdn.recast.ai/blog/pokebot/80.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/80.png",
     "evolutions": [
       {
         "id": 79,
@@ -2431,7 +2431,7 @@
       "steel"
     ],
     "name": "Magnemite",
-    "image": "https://cdn.recast.ai/blog/pokebot/81.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/81.png",
     "evolutions": [
       {
         "id": 81,
@@ -2463,7 +2463,7 @@
       "steel"
     ],
     "name": "Magneton",
-    "image": "https://cdn.recast.ai/blog/pokebot/82.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/82.png",
     "evolutions": [
       {
         "id": 81,
@@ -2495,7 +2495,7 @@
       "flying"
     ],
     "name": "Farfetchd",
-    "image": "https://cdn.recast.ai/blog/pokebot/83.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/83.png",
     "evolutions": [
       {
         "id": 83,
@@ -2514,7 +2514,7 @@
       "flying"
     ],
     "name": "Doduo",
-    "image": "https://cdn.recast.ai/blog/pokebot/84.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/84.png",
     "evolutions": [
       {
         "id": 84,
@@ -2540,7 +2540,7 @@
       "flying"
     ],
     "name": "Dodrio",
-    "image": "https://cdn.recast.ai/blog/pokebot/85.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/85.png",
     "evolutions": [
       {
         "id": 84,
@@ -2565,7 +2565,7 @@
       "water"
     ],
     "name": "Seel",
-    "image": "https://cdn.recast.ai/blog/pokebot/86.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/86.png",
     "evolutions": [
       {
         "id": 86,
@@ -2591,7 +2591,7 @@
       "ice"
     ],
     "name": "Dewgong",
-    "image": "https://cdn.recast.ai/blog/pokebot/87.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/87.png",
     "evolutions": [
       {
         "id": 86,
@@ -2616,7 +2616,7 @@
       "poison"
     ],
     "name": "Grimer",
-    "image": "https://cdn.recast.ai/blog/pokebot/88.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/88.png",
     "evolutions": [
       {
         "id": 88,
@@ -2641,7 +2641,7 @@
       "poison"
     ],
     "name": "Muk",
-    "image": "https://cdn.recast.ai/blog/pokebot/89.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/89.png",
     "evolutions": [
       {
         "id": 88,
@@ -2666,7 +2666,7 @@
       "water"
     ],
     "name": "Shellder",
-    "image": "https://cdn.recast.ai/blog/pokebot/90.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/90.png",
     "evolutions": [
       {
         "id": 90,
@@ -2692,7 +2692,7 @@
       "ice"
     ],
     "name": "Cloyster",
-    "image": "https://cdn.recast.ai/blog/pokebot/91.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/91.png",
     "evolutions": [
       {
         "id": 90,
@@ -2718,7 +2718,7 @@
       "poison"
     ],
     "name": "Gastly",
-    "image": "https://cdn.recast.ai/blog/pokebot/92.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/92.png",
     "evolutions": [
       {
         "id": 92,
@@ -2750,7 +2750,7 @@
       "poison"
     ],
     "name": "Haunter",
-    "image": "https://cdn.recast.ai/blog/pokebot/93.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/93.png",
     "evolutions": [
       {
         "id": 92,
@@ -2782,7 +2782,7 @@
       "poison"
     ],
     "name": "Gengar",
-    "image": "https://cdn.recast.ai/blog/pokebot/94.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/94.png",
     "evolutions": [
       {
         "id": 92,
@@ -2814,7 +2814,7 @@
       "ground"
     ],
     "name": "Onix",
-    "image": "https://cdn.recast.ai/blog/pokebot/95.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/95.png",
     "evolutions": [
       {
         "id": 95,
@@ -2838,7 +2838,7 @@
       "psychic"
     ],
     "name": "Drowzee",
-    "image": "https://cdn.recast.ai/blog/pokebot/96.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/96.png",
     "evolutions": [
       {
         "id": 96,
@@ -2863,7 +2863,7 @@
       "psychic"
     ],
     "name": "Hypno",
-    "image": "https://cdn.recast.ai/blog/pokebot/97.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/97.png",
     "evolutions": [
       {
         "id": 96,
@@ -2888,7 +2888,7 @@
       "water"
     ],
     "name": "Krabby",
-    "image": "https://cdn.recast.ai/blog/pokebot/98.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/98.png",
     "evolutions": [
       {
         "id": 98,
@@ -2913,7 +2913,7 @@
       "water"
     ],
     "name": "Kingler",
-    "image": "https://cdn.recast.ai/blog/pokebot/99.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/99.png",
     "evolutions": [
       {
         "id": 98,
@@ -2938,7 +2938,7 @@
       "electric"
     ],
     "name": "Voltorb",
-    "image": "https://cdn.recast.ai/blog/pokebot/100.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/100.png",
     "evolutions": [
       {
         "id": 100,
@@ -2963,7 +2963,7 @@
       "electric"
     ],
     "name": "Electrode",
-    "image": "https://cdn.recast.ai/blog/pokebot/101.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/101.png",
     "evolutions": [
       {
         "id": 100,
@@ -2989,7 +2989,7 @@
       "psychic"
     ],
     "name": "Exeggcute",
-    "image": "https://cdn.recast.ai/blog/pokebot/102.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/102.png",
     "evolutions": [
       {
         "id": 102,
@@ -3015,7 +3015,7 @@
       "psychic"
     ],
     "name": "Exeggutor",
-    "image": "https://cdn.recast.ai/blog/pokebot/103.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/103.png",
     "evolutions": [
       {
         "id": 102,
@@ -3040,7 +3040,7 @@
       "ground"
     ],
     "name": "Cubone",
-    "image": "https://cdn.recast.ai/blog/pokebot/104.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/104.png",
     "evolutions": [
       {
         "id": 104,
@@ -3065,7 +3065,7 @@
       "ground"
     ],
     "name": "Marowak",
-    "image": "https://cdn.recast.ai/blog/pokebot/105.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/105.png",
     "evolutions": [
       {
         "id": 104,
@@ -3090,7 +3090,7 @@
       "fighting"
     ],
     "name": "Hitmonlee",
-    "image": "https://cdn.recast.ai/blog/pokebot/106.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/106.png",
     "evolutions": [
       {
         "id": 236,
@@ -3129,7 +3129,7 @@
       "fighting"
     ],
     "name": "Hitmonchan",
-    "image": "https://cdn.recast.ai/blog/pokebot/107.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/107.png",
     "evolutions": [
       {
         "id": 236,
@@ -3168,7 +3168,7 @@
       "normal"
     ],
     "name": "Lickitung",
-    "image": "https://cdn.recast.ai/blog/pokebot/108.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/108.png",
     "evolutions": [
       {
         "id": 108,
@@ -3192,7 +3192,7 @@
       "poison"
     ],
     "name": "Koffing",
-    "image": "https://cdn.recast.ai/blog/pokebot/109.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/109.png",
     "evolutions": [
       {
         "id": 109,
@@ -3217,7 +3217,7 @@
       "poison"
     ],
     "name": "Weezing",
-    "image": "https://cdn.recast.ai/blog/pokebot/110.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/110.png",
     "evolutions": [
       {
         "id": 109,
@@ -3243,7 +3243,7 @@
       "rock"
     ],
     "name": "Rhyhorn",
-    "image": "https://cdn.recast.ai/blog/pokebot/111.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/111.png",
     "evolutions": [
       {
         "id": 111,
@@ -3275,7 +3275,7 @@
       "rock"
     ],
     "name": "Rhydon",
-    "image": "https://cdn.recast.ai/blog/pokebot/112.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/112.png",
     "evolutions": [
       {
         "id": 111,
@@ -3306,7 +3306,7 @@
       "normal"
     ],
     "name": "Chansey",
-    "image": "https://cdn.recast.ai/blog/pokebot/113.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/113.png",
     "evolutions": [
       {
         "id": 440,
@@ -3336,7 +3336,7 @@
       "grass"
     ],
     "name": "Tangela",
-    "image": "https://cdn.recast.ai/blog/pokebot/114.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/114.png",
     "evolutions": [
       {
         "id": 114,
@@ -3360,7 +3360,7 @@
       "normal"
     ],
     "name": "Kangaskhan",
-    "image": "https://cdn.recast.ai/blog/pokebot/115.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/115.png",
     "evolutions": [
       {
         "id": 115,
@@ -3378,7 +3378,7 @@
       "water"
     ],
     "name": "Horsea",
-    "image": "https://cdn.recast.ai/blog/pokebot/116.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/116.png",
     "evolutions": [
       {
         "id": 116,
@@ -3409,7 +3409,7 @@
       "water"
     ],
     "name": "Seadra",
-    "image": "https://cdn.recast.ai/blog/pokebot/117.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/117.png",
     "evolutions": [
       {
         "id": 116,
@@ -3440,7 +3440,7 @@
       "water"
     ],
     "name": "Goldeen",
-    "image": "https://cdn.recast.ai/blog/pokebot/118.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/118.png",
     "evolutions": [
       {
         "id": 118,
@@ -3465,7 +3465,7 @@
       "water"
     ],
     "name": "Seaking",
-    "image": "https://cdn.recast.ai/blog/pokebot/119.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/119.png",
     "evolutions": [
       {
         "id": 118,
@@ -3490,7 +3490,7 @@
       "water"
     ],
     "name": "Staryu",
-    "image": "https://cdn.recast.ai/blog/pokebot/120.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/120.png",
     "evolutions": [
       {
         "id": 120,
@@ -3516,7 +3516,7 @@
       "psychic"
     ],
     "name": "Starmie",
-    "image": "https://cdn.recast.ai/blog/pokebot/121.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/121.png",
     "evolutions": [
       {
         "id": 120,
@@ -3542,7 +3542,7 @@
       "fairy"
     ],
     "name": "Mr-mime",
-    "image": "https://cdn.recast.ai/blog/pokebot/122.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/122.png",
     "evolutions": [
       {
         "id": 439,
@@ -3567,7 +3567,7 @@
       "flying"
     ],
     "name": "Scyther",
-    "image": "https://cdn.recast.ai/blog/pokebot/123.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/123.png",
     "evolutions": [
       {
         "id": 123,
@@ -3592,7 +3592,7 @@
       "psychic"
     ],
     "name": "Jynx",
-    "image": "https://cdn.recast.ai/blog/pokebot/124.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/124.png",
     "evolutions": [
       {
         "id": 238,
@@ -3617,7 +3617,7 @@
       "electric"
     ],
     "name": "Electabuzz",
-    "image": "https://cdn.recast.ai/blog/pokebot/125.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/125.png",
     "evolutions": [
       {
         "id": 239,
@@ -3648,7 +3648,7 @@
       "fire"
     ],
     "name": "Magmar",
-    "image": "https://cdn.recast.ai/blog/pokebot/126.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/126.png",
     "evolutions": [
       {
         "id": 240,
@@ -3679,7 +3679,7 @@
       "bug"
     ],
     "name": "Pinsir",
-    "image": "https://cdn.recast.ai/blog/pokebot/127.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/127.png",
     "evolutions": [
       {
         "id": 127,
@@ -3697,7 +3697,7 @@
       "normal"
     ],
     "name": "Tauros",
-    "image": "https://cdn.recast.ai/blog/pokebot/128.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/128.png",
     "evolutions": [
       {
         "id": 128,
@@ -3715,7 +3715,7 @@
       "water"
     ],
     "name": "Magikarp",
-    "image": "https://cdn.recast.ai/blog/pokebot/129.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/129.png",
     "evolutions": [
       {
         "id": 129,
@@ -3741,7 +3741,7 @@
       "flying"
     ],
     "name": "Gyarados",
-    "image": "https://cdn.recast.ai/blog/pokebot/130.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/130.png",
     "evolutions": [
       {
         "id": 129,
@@ -3767,7 +3767,7 @@
       "ice"
     ],
     "name": "Lapras",
-    "image": "https://cdn.recast.ai/blog/pokebot/131.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/131.png",
     "evolutions": [
       {
         "id": 131,
@@ -3785,7 +3785,7 @@
       "normal"
     ],
     "name": "Ditto",
-    "image": "https://cdn.recast.ai/blog/pokebot/132.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/132.png",
     "evolutions": [
       {
         "id": 132,
@@ -3803,7 +3803,7 @@
       "normal"
     ],
     "name": "Eevee",
-    "image": "https://cdn.recast.ai/blog/pokebot/133.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/133.png",
     "evolutions": [
       {
         "id": 133,
@@ -3872,7 +3872,7 @@
       "water"
     ],
     "name": "Vaporeon",
-    "image": "https://cdn.recast.ai/blog/pokebot/134.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/134.png",
     "evolutions": [
       {
         "id": 133,
@@ -3941,7 +3941,7 @@
       "electric"
     ],
     "name": "Jolteon",
-    "image": "https://cdn.recast.ai/blog/pokebot/135.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/135.png",
     "evolutions": [
       {
         "id": 133,
@@ -4010,7 +4010,7 @@
       "fire"
     ],
     "name": "Flareon",
-    "image": "https://cdn.recast.ai/blog/pokebot/136.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/136.png",
     "evolutions": [
       {
         "id": 133,
@@ -4079,7 +4079,7 @@
       "normal"
     ],
     "name": "Porygon",
-    "image": "https://cdn.recast.ai/blog/pokebot/137.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/137.png",
     "evolutions": [
       {
         "id": 137,
@@ -4110,7 +4110,7 @@
       "water"
     ],
     "name": "Omanyte",
-    "image": "https://cdn.recast.ai/blog/pokebot/138.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/138.png",
     "evolutions": [
       {
         "id": 138,
@@ -4136,7 +4136,7 @@
       "water"
     ],
     "name": "Omastar",
-    "image": "https://cdn.recast.ai/blog/pokebot/139.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/139.png",
     "evolutions": [
       {
         "id": 138,
@@ -4162,7 +4162,7 @@
       "water"
     ],
     "name": "Kabuto",
-    "image": "https://cdn.recast.ai/blog/pokebot/140.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/140.png",
     "evolutions": [
       {
         "id": 140,
@@ -4188,7 +4188,7 @@
       "water"
     ],
     "name": "Kabutops",
-    "image": "https://cdn.recast.ai/blog/pokebot/141.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/141.png",
     "evolutions": [
       {
         "id": 140,
@@ -4214,7 +4214,7 @@
       "flying"
     ],
     "name": "Aerodactyl",
-    "image": "https://cdn.recast.ai/blog/pokebot/142.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/142.png",
     "evolutions": [
       {
         "id": 142,
@@ -4232,7 +4232,7 @@
       "normal"
     ],
     "name": "Snorlax",
-    "image": "https://cdn.recast.ai/blog/pokebot/143.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/143.png",
     "evolutions": [
       {
         "id": 446,
@@ -4257,7 +4257,7 @@
       "flying"
     ],
     "name": "Articuno",
-    "image": "https://cdn.recast.ai/blog/pokebot/144.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/144.png",
     "evolutions": [
       {
         "id": 144,
@@ -4276,7 +4276,7 @@
       "flying"
     ],
     "name": "Zapdos",
-    "image": "https://cdn.recast.ai/blog/pokebot/145.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/145.png",
     "evolutions": [
       {
         "id": 145,
@@ -4295,7 +4295,7 @@
       "flying"
     ],
     "name": "Moltres",
-    "image": "https://cdn.recast.ai/blog/pokebot/146.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/146.png",
     "evolutions": [
       {
         "id": 146,
@@ -4313,7 +4313,7 @@
       "dragon"
     ],
     "name": "Dratini",
-    "image": "https://cdn.recast.ai/blog/pokebot/147.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/147.png",
     "evolutions": [
       {
         "id": 147,
@@ -4345,7 +4345,7 @@
       "dragon"
     ],
     "name": "Dragonair",
-    "image": "https://cdn.recast.ai/blog/pokebot/148.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/148.png",
     "evolutions": [
       {
         "id": 147,
@@ -4378,7 +4378,7 @@
       "flying"
     ],
     "name": "Dragonite",
-    "image": "https://cdn.recast.ai/blog/pokebot/149.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/149.png",
     "evolutions": [
       {
         "id": 147,
@@ -4410,7 +4410,7 @@
       "psychic"
     ],
     "name": "Mewtwo",
-    "image": "https://cdn.recast.ai/blog/pokebot/150.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/150.png",
     "evolutions": [
       {
         "id": 150,
@@ -4428,7 +4428,7 @@
       "psychic"
     ],
     "name": "Mew",
-    "image": "https://cdn.recast.ai/blog/pokebot/151.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/151.png",
     "evolutions": [
       {
         "id": 151,
@@ -4446,7 +4446,7 @@
       "grass"
     ],
     "name": "Chikorita",
-    "image": "https://cdn.recast.ai/blog/pokebot/152.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/152.png",
     "evolutions": [
       {
         "id": 152,
@@ -4478,7 +4478,7 @@
       "grass"
     ],
     "name": "Bayleef",
-    "image": "https://cdn.recast.ai/blog/pokebot/153.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/153.png",
     "evolutions": [
       {
         "id": 152,
@@ -4510,7 +4510,7 @@
       "grass"
     ],
     "name": "Meganium",
-    "image": "https://cdn.recast.ai/blog/pokebot/154.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/154.png",
     "evolutions": [
       {
         "id": 152,
@@ -4542,7 +4542,7 @@
       "fire"
     ],
     "name": "Cyndaquil",
-    "image": "https://cdn.recast.ai/blog/pokebot/155.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/155.png",
     "evolutions": [
       {
         "id": 155,
@@ -4574,7 +4574,7 @@
       "fire"
     ],
     "name": "Quilava",
-    "image": "https://cdn.recast.ai/blog/pokebot/156.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/156.png",
     "evolutions": [
       {
         "id": 155,
@@ -4606,7 +4606,7 @@
       "fire"
     ],
     "name": "Typhlosion",
-    "image": "https://cdn.recast.ai/blog/pokebot/157.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/157.png",
     "evolutions": [
       {
         "id": 155,
@@ -4638,7 +4638,7 @@
       "water"
     ],
     "name": "Totodile",
-    "image": "https://cdn.recast.ai/blog/pokebot/158.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/158.png",
     "evolutions": [
       {
         "id": 158,
@@ -4670,7 +4670,7 @@
       "water"
     ],
     "name": "Croconaw",
-    "image": "https://cdn.recast.ai/blog/pokebot/159.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/159.png",
     "evolutions": [
       {
         "id": 158,
@@ -4702,7 +4702,7 @@
       "water"
     ],
     "name": "Feraligatr",
-    "image": "https://cdn.recast.ai/blog/pokebot/160.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/160.png",
     "evolutions": [
       {
         "id": 158,
@@ -4734,7 +4734,7 @@
       "normal"
     ],
     "name": "Sentret",
-    "image": "https://cdn.recast.ai/blog/pokebot/161.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/161.png",
     "evolutions": [
       {
         "id": 161,
@@ -4759,7 +4759,7 @@
       "normal"
     ],
     "name": "Furret",
-    "image": "https://cdn.recast.ai/blog/pokebot/162.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/162.png",
     "evolutions": [
       {
         "id": 161,
@@ -4785,7 +4785,7 @@
       "flying"
     ],
     "name": "Hoothoot",
-    "image": "https://cdn.recast.ai/blog/pokebot/163.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/163.png",
     "evolutions": [
       {
         "id": 163,
@@ -4811,7 +4811,7 @@
       "flying"
     ],
     "name": "Noctowl",
-    "image": "https://cdn.recast.ai/blog/pokebot/164.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/164.png",
     "evolutions": [
       {
         "id": 163,
@@ -4837,7 +4837,7 @@
       "flying"
     ],
     "name": "Ledyba",
-    "image": "https://cdn.recast.ai/blog/pokebot/165.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/165.png",
     "evolutions": [
       {
         "id": 165,
@@ -4863,7 +4863,7 @@
       "flying"
     ],
     "name": "Ledian",
-    "image": "https://cdn.recast.ai/blog/pokebot/166.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/166.png",
     "evolutions": [
       {
         "id": 165,
@@ -4889,7 +4889,7 @@
       "poison"
     ],
     "name": "Spinarak",
-    "image": "https://cdn.recast.ai/blog/pokebot/167.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/167.png",
     "evolutions": [
       {
         "id": 167,
@@ -4915,7 +4915,7 @@
       "poison"
     ],
     "name": "Ariados",
-    "image": "https://cdn.recast.ai/blog/pokebot/168.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/168.png",
     "evolutions": [
       {
         "id": 167,
@@ -4941,7 +4941,7 @@
       "flying"
     ],
     "name": "Crobat",
-    "image": "https://cdn.recast.ai/blog/pokebot/169.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/169.png",
     "evolutions": [
       {
         "id": 41,
@@ -4973,7 +4973,7 @@
       "electric"
     ],
     "name": "Chinchou",
-    "image": "https://cdn.recast.ai/blog/pokebot/170.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/170.png",
     "evolutions": [
       {
         "id": 170,
@@ -4999,7 +4999,7 @@
       "electric"
     ],
     "name": "Lanturn",
-    "image": "https://cdn.recast.ai/blog/pokebot/171.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/171.png",
     "evolutions": [
       {
         "id": 170,
@@ -5024,7 +5024,7 @@
       "electric"
     ],
     "name": "Pichu",
-    "image": "https://cdn.recast.ai/blog/pokebot/172.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/172.png",
     "evolutions": [
       {
         "id": 172,
@@ -5055,7 +5055,7 @@
       "fairy"
     ],
     "name": "Cleffa",
-    "image": "https://cdn.recast.ai/blog/pokebot/173.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/173.png",
     "evolutions": [
       {
         "id": 173,
@@ -5087,7 +5087,7 @@
       "fairy"
     ],
     "name": "Igglybuff",
-    "image": "https://cdn.recast.ai/blog/pokebot/174.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/174.png",
     "evolutions": [
       {
         "id": 174,
@@ -5118,7 +5118,7 @@
       "fairy"
     ],
     "name": "Togepi",
-    "image": "https://cdn.recast.ai/blog/pokebot/175.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/175.png",
     "evolutions": [
       {
         "id": 175,
@@ -5150,7 +5150,7 @@
       "flying"
     ],
     "name": "Togetic",
-    "image": "https://cdn.recast.ai/blog/pokebot/176.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/176.png",
     "evolutions": [
       {
         "id": 175,
@@ -5182,7 +5182,7 @@
       "flying"
     ],
     "name": "Natu",
-    "image": "https://cdn.recast.ai/blog/pokebot/177.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/177.png",
     "evolutions": [
       {
         "id": 177,
@@ -5208,7 +5208,7 @@
       "flying"
     ],
     "name": "Xatu",
-    "image": "https://cdn.recast.ai/blog/pokebot/178.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/178.png",
     "evolutions": [
       {
         "id": 177,
@@ -5233,7 +5233,7 @@
       "electric"
     ],
     "name": "Mareep",
-    "image": "https://cdn.recast.ai/blog/pokebot/179.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/179.png",
     "evolutions": [
       {
         "id": 179,
@@ -5265,7 +5265,7 @@
       "electric"
     ],
     "name": "Flaaffy",
-    "image": "https://cdn.recast.ai/blog/pokebot/180.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/180.png",
     "evolutions": [
       {
         "id": 179,
@@ -5297,7 +5297,7 @@
       "electric"
     ],
     "name": "Ampharos",
-    "image": "https://cdn.recast.ai/blog/pokebot/181.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/181.png",
     "evolutions": [
       {
         "id": 179,
@@ -5329,7 +5329,7 @@
       "grass"
     ],
     "name": "Bellossom",
-    "image": "https://cdn.recast.ai/blog/pokebot/182.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/182.png",
     "evolutions": [
       {
         "id": 43,
@@ -5369,7 +5369,7 @@
       "fairy"
     ],
     "name": "Marill",
-    "image": "https://cdn.recast.ai/blog/pokebot/183.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/183.png",
     "evolutions": [
       {
         "id": 298,
@@ -5401,7 +5401,7 @@
       "fairy"
     ],
     "name": "Azumarill",
-    "image": "https://cdn.recast.ai/blog/pokebot/184.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/184.png",
     "evolutions": [
       {
         "id": 298,
@@ -5432,7 +5432,7 @@
       "rock"
     ],
     "name": "Sudowoodo",
-    "image": "https://cdn.recast.ai/blog/pokebot/185.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/185.png",
     "evolutions": [
       {
         "id": 438,
@@ -5456,7 +5456,7 @@
       "water"
     ],
     "name": "Politoed",
-    "image": "https://cdn.recast.ai/blog/pokebot/186.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/186.png",
     "evolutions": [
       {
         "id": 60,
@@ -5495,7 +5495,7 @@
       "flying"
     ],
     "name": "Hoppip",
-    "image": "https://cdn.recast.ai/blog/pokebot/187.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/187.png",
     "evolutions": [
       {
         "id": 187,
@@ -5528,7 +5528,7 @@
       "flying"
     ],
     "name": "Skiploom",
-    "image": "https://cdn.recast.ai/blog/pokebot/188.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/188.png",
     "evolutions": [
       {
         "id": 187,
@@ -5561,7 +5561,7 @@
       "flying"
     ],
     "name": "Jumpluff",
-    "image": "https://cdn.recast.ai/blog/pokebot/189.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/189.png",
     "evolutions": [
       {
         "id": 187,
@@ -5593,7 +5593,7 @@
       "normal"
     ],
     "name": "Aipom",
-    "image": "https://cdn.recast.ai/blog/pokebot/190.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/190.png",
     "evolutions": [
       {
         "id": 190,
@@ -5617,7 +5617,7 @@
       "grass"
     ],
     "name": "Sunkern",
-    "image": "https://cdn.recast.ai/blog/pokebot/191.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/191.png",
     "evolutions": [
       {
         "id": 191,
@@ -5642,7 +5642,7 @@
       "grass"
     ],
     "name": "Sunflora",
-    "image": "https://cdn.recast.ai/blog/pokebot/192.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/192.png",
     "evolutions": [
       {
         "id": 191,
@@ -5668,7 +5668,7 @@
       "flying"
     ],
     "name": "Yanma",
-    "image": "https://cdn.recast.ai/blog/pokebot/193.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/193.png",
     "evolutions": [
       {
         "id": 193,
@@ -5693,7 +5693,7 @@
       "ground"
     ],
     "name": "Wooper",
-    "image": "https://cdn.recast.ai/blog/pokebot/194.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/194.png",
     "evolutions": [
       {
         "id": 194,
@@ -5719,7 +5719,7 @@
       "ground"
     ],
     "name": "Quagsire",
-    "image": "https://cdn.recast.ai/blog/pokebot/195.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/195.png",
     "evolutions": [
       {
         "id": 194,
@@ -5744,7 +5744,7 @@
       "psychic"
     ],
     "name": "Espeon",
-    "image": "https://cdn.recast.ai/blog/pokebot/196.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/196.png",
     "evolutions": [
       {
         "id": 133,
@@ -5813,7 +5813,7 @@
       "dark"
     ],
     "name": "Umbreon",
-    "image": "https://cdn.recast.ai/blog/pokebot/197.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/197.png",
     "evolutions": [
       {
         "id": 133,
@@ -5883,7 +5883,7 @@
       "flying"
     ],
     "name": "Murkrow",
-    "image": "https://cdn.recast.ai/blog/pokebot/198.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/198.png",
     "evolutions": [
       {
         "id": 198,
@@ -5909,7 +5909,7 @@
       "psychic"
     ],
     "name": "Slowking",
-    "image": "https://cdn.recast.ai/blog/pokebot/199.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/199.png",
     "evolutions": [
       {
         "id": 79,
@@ -5940,7 +5940,7 @@
       "ghost"
     ],
     "name": "Misdreavus",
-    "image": "https://cdn.recast.ai/blog/pokebot/200.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/200.png",
     "evolutions": [
       {
         "id": 200,
@@ -5965,7 +5965,7 @@
       "psychic"
     ],
     "name": "Unown",
-    "image": "https://cdn.recast.ai/blog/pokebot/201.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/201.png",
     "evolutions": [
       {
         "id": 201,
@@ -5983,7 +5983,7 @@
       "psychic"
     ],
     "name": "Wobbuffet",
-    "image": "https://cdn.recast.ai/blog/pokebot/202.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/202.png",
     "evolutions": [
       {
         "id": 360,
@@ -6009,7 +6009,7 @@
       "psychic"
     ],
     "name": "Girafarig",
-    "image": "https://cdn.recast.ai/blog/pokebot/203.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/203.png",
     "evolutions": [
       {
         "id": 203,
@@ -6027,7 +6027,7 @@
       "bug"
     ],
     "name": "Pineco",
-    "image": "https://cdn.recast.ai/blog/pokebot/204.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/204.png",
     "evolutions": [
       {
         "id": 204,
@@ -6053,7 +6053,7 @@
       "steel"
     ],
     "name": "Forretress",
-    "image": "https://cdn.recast.ai/blog/pokebot/205.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/205.png",
     "evolutions": [
       {
         "id": 204,
@@ -6078,7 +6078,7 @@
       "normal"
     ],
     "name": "Dunsparce",
-    "image": "https://cdn.recast.ai/blog/pokebot/206.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/206.png",
     "evolutions": [
       {
         "id": 206,
@@ -6097,7 +6097,7 @@
       "flying"
     ],
     "name": "Gligar",
-    "image": "https://cdn.recast.ai/blog/pokebot/207.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/207.png",
     "evolutions": [
       {
         "id": 207,
@@ -6122,7 +6122,7 @@
       "ground"
     ],
     "name": "Steelix",
-    "image": "https://cdn.recast.ai/blog/pokebot/208.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/208.png",
     "evolutions": [
       {
         "id": 95,
@@ -6146,7 +6146,7 @@
       "fairy"
     ],
     "name": "Snubbull",
-    "image": "https://cdn.recast.ai/blog/pokebot/209.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/209.png",
     "evolutions": [
       {
         "id": 209,
@@ -6171,7 +6171,7 @@
       "fairy"
     ],
     "name": "Granbull",
-    "image": "https://cdn.recast.ai/blog/pokebot/210.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/210.png",
     "evolutions": [
       {
         "id": 209,
@@ -6197,7 +6197,7 @@
       "poison"
     ],
     "name": "Qwilfish",
-    "image": "https://cdn.recast.ai/blog/pokebot/211.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/211.png",
     "evolutions": [
       {
         "id": 211,
@@ -6216,7 +6216,7 @@
       "steel"
     ],
     "name": "Scizor",
-    "image": "https://cdn.recast.ai/blog/pokebot/212.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/212.png",
     "evolutions": [
       {
         "id": 123,
@@ -6241,7 +6241,7 @@
       "rock"
     ],
     "name": "Shuckle",
-    "image": "https://cdn.recast.ai/blog/pokebot/213.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/213.png",
     "evolutions": [
       {
         "id": 213,
@@ -6260,7 +6260,7 @@
       "fighting"
     ],
     "name": "Heracross",
-    "image": "https://cdn.recast.ai/blog/pokebot/214.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/214.png",
     "evolutions": [
       {
         "id": 214,
@@ -6279,7 +6279,7 @@
       "ice"
     ],
     "name": "Sneasel",
-    "image": "https://cdn.recast.ai/blog/pokebot/215.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/215.png",
     "evolutions": [
       {
         "id": 215,
@@ -6303,7 +6303,7 @@
       "normal"
     ],
     "name": "Teddiursa",
-    "image": "https://cdn.recast.ai/blog/pokebot/216.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/216.png",
     "evolutions": [
       {
         "id": 216,
@@ -6328,7 +6328,7 @@
       "normal"
     ],
     "name": "Ursaring",
-    "image": "https://cdn.recast.ai/blog/pokebot/217.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/217.png",
     "evolutions": [
       {
         "id": 216,
@@ -6353,7 +6353,7 @@
       "fire"
     ],
     "name": "Slugma",
-    "image": "https://cdn.recast.ai/blog/pokebot/218.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/218.png",
     "evolutions": [
       {
         "id": 218,
@@ -6379,7 +6379,7 @@
       "rock"
     ],
     "name": "Magcargo",
-    "image": "https://cdn.recast.ai/blog/pokebot/219.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/219.png",
     "evolutions": [
       {
         "id": 218,
@@ -6405,7 +6405,7 @@
       "ground"
     ],
     "name": "Swinub",
-    "image": "https://cdn.recast.ai/blog/pokebot/220.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/220.png",
     "evolutions": [
       {
         "id": 220,
@@ -6437,7 +6437,7 @@
       "ground"
     ],
     "name": "Piloswine",
-    "image": "https://cdn.recast.ai/blog/pokebot/221.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/221.png",
     "evolutions": [
       {
         "id": 220,
@@ -6469,7 +6469,7 @@
       "rock"
     ],
     "name": "Corsola",
-    "image": "https://cdn.recast.ai/blog/pokebot/222.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/222.png",
     "evolutions": [
       {
         "id": 222,
@@ -6487,7 +6487,7 @@
       "water"
     ],
     "name": "Remoraid",
-    "image": "https://cdn.recast.ai/blog/pokebot/223.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/223.png",
     "evolutions": [
       {
         "id": 223,
@@ -6512,7 +6512,7 @@
       "water"
     ],
     "name": "Octillery",
-    "image": "https://cdn.recast.ai/blog/pokebot/224.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/224.png",
     "evolutions": [
       {
         "id": 223,
@@ -6538,7 +6538,7 @@
       "flying"
     ],
     "name": "Delibird",
-    "image": "https://cdn.recast.ai/blog/pokebot/225.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/225.png",
     "evolutions": [
       {
         "id": 225,
@@ -6557,7 +6557,7 @@
       "flying"
     ],
     "name": "Mantine",
-    "image": "https://cdn.recast.ai/blog/pokebot/226.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/226.png",
     "evolutions": [
       {
         "id": 458,
@@ -6582,7 +6582,7 @@
       "flying"
     ],
     "name": "Skarmory",
-    "image": "https://cdn.recast.ai/blog/pokebot/227.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/227.png",
     "evolutions": [
       {
         "id": 227,
@@ -6601,7 +6601,7 @@
       "fire"
     ],
     "name": "Houndour",
-    "image": "https://cdn.recast.ai/blog/pokebot/228.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/228.png",
     "evolutions": [
       {
         "id": 228,
@@ -6627,7 +6627,7 @@
       "fire"
     ],
     "name": "Houndoom",
-    "image": "https://cdn.recast.ai/blog/pokebot/229.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/229.png",
     "evolutions": [
       {
         "id": 228,
@@ -6653,7 +6653,7 @@
       "dragon"
     ],
     "name": "Kingdra",
-    "image": "https://cdn.recast.ai/blog/pokebot/230.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/230.png",
     "evolutions": [
       {
         "id": 116,
@@ -6684,7 +6684,7 @@
       "ground"
     ],
     "name": "Phanpy",
-    "image": "https://cdn.recast.ai/blog/pokebot/231.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/231.png",
     "evolutions": [
       {
         "id": 231,
@@ -6709,7 +6709,7 @@
       "ground"
     ],
     "name": "Donphan",
-    "image": "https://cdn.recast.ai/blog/pokebot/232.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/232.png",
     "evolutions": [
       {
         "id": 231,
@@ -6734,7 +6734,7 @@
       "normal"
     ],
     "name": "Porygon2",
-    "image": "https://cdn.recast.ai/blog/pokebot/233.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/233.png",
     "evolutions": [
       {
         "id": 137,
@@ -6764,7 +6764,7 @@
       "normal"
     ],
     "name": "Stantler",
-    "image": "https://cdn.recast.ai/blog/pokebot/234.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/234.png",
     "evolutions": [
       {
         "id": 234,
@@ -6782,7 +6782,7 @@
       "normal"
     ],
     "name": "Smeargle",
-    "image": "https://cdn.recast.ai/blog/pokebot/235.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/235.png",
     "evolutions": [
       {
         "id": 235,
@@ -6800,7 +6800,7 @@
       "fighting"
     ],
     "name": "Tyrogue",
-    "image": "https://cdn.recast.ai/blog/pokebot/236.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/236.png",
     "evolutions": [
       {
         "id": 236,
@@ -6839,7 +6839,7 @@
       "fighting"
     ],
     "name": "Hitmontop",
-    "image": "https://cdn.recast.ai/blog/pokebot/237.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/237.png",
     "evolutions": [
       {
         "id": 236,
@@ -6879,7 +6879,7 @@
       "psychic"
     ],
     "name": "Smoochum",
-    "image": "https://cdn.recast.ai/blog/pokebot/238.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/238.png",
     "evolutions": [
       {
         "id": 238,
@@ -6904,7 +6904,7 @@
       "electric"
     ],
     "name": "Elekid",
-    "image": "https://cdn.recast.ai/blog/pokebot/239.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/239.png",
     "evolutions": [
       {
         "id": 239,
@@ -6935,7 +6935,7 @@
       "fire"
     ],
     "name": "Magby",
-    "image": "https://cdn.recast.ai/blog/pokebot/240.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/240.png",
     "evolutions": [
       {
         "id": 240,
@@ -6966,7 +6966,7 @@
       "normal"
     ],
     "name": "Miltank",
-    "image": "https://cdn.recast.ai/blog/pokebot/241.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/241.png",
     "evolutions": [
       {
         "id": 241,
@@ -6984,7 +6984,7 @@
       "normal"
     ],
     "name": "Blissey",
-    "image": "https://cdn.recast.ai/blog/pokebot/242.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/242.png",
     "evolutions": [
       {
         "id": 440,
@@ -7014,7 +7014,7 @@
       "electric"
     ],
     "name": "Raikou",
-    "image": "https://cdn.recast.ai/blog/pokebot/243.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/243.png",
     "evolutions": [
       {
         "id": 243,
@@ -7032,7 +7032,7 @@
       "fire"
     ],
     "name": "Entei",
-    "image": "https://cdn.recast.ai/blog/pokebot/244.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/244.png",
     "evolutions": [
       {
         "id": 244,
@@ -7050,7 +7050,7 @@
       "water"
     ],
     "name": "Suicune",
-    "image": "https://cdn.recast.ai/blog/pokebot/245.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/245.png",
     "evolutions": [
       {
         "id": 245,
@@ -7069,7 +7069,7 @@
       "ground"
     ],
     "name": "Larvitar",
-    "image": "https://cdn.recast.ai/blog/pokebot/246.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/246.png",
     "evolutions": [
       {
         "id": 246,
@@ -7102,7 +7102,7 @@
       "ground"
     ],
     "name": "Pupitar",
-    "image": "https://cdn.recast.ai/blog/pokebot/247.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/247.png",
     "evolutions": [
       {
         "id": 246,
@@ -7135,7 +7135,7 @@
       "dark"
     ],
     "name": "Tyranitar",
-    "image": "https://cdn.recast.ai/blog/pokebot/248.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/248.png",
     "evolutions": [
       {
         "id": 246,
@@ -7168,7 +7168,7 @@
       "flying"
     ],
     "name": "Lugia",
-    "image": "https://cdn.recast.ai/blog/pokebot/249.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/249.png",
     "evolutions": [
       {
         "id": 249,
@@ -7187,7 +7187,7 @@
       "flying"
     ],
     "name": "Ho-oh",
-    "image": "https://cdn.recast.ai/blog/pokebot/250.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/250.png",
     "evolutions": [
       {
         "id": 250,
@@ -7206,7 +7206,7 @@
       "grass"
     ],
     "name": "Celebi",
-    "image": "https://cdn.recast.ai/blog/pokebot/251.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/251.png",
     "evolutions": [
       {
         "id": 251,
@@ -7224,7 +7224,7 @@
       "grass"
     ],
     "name": "Treecko",
-    "image": "https://cdn.recast.ai/blog/pokebot/252.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/252.png",
     "evolutions": [
       {
         "id": 252,
@@ -7256,7 +7256,7 @@
       "grass"
     ],
     "name": "Grovyle",
-    "image": "https://cdn.recast.ai/blog/pokebot/253.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/253.png",
     "evolutions": [
       {
         "id": 252,
@@ -7288,7 +7288,7 @@
       "grass"
     ],
     "name": "Sceptile",
-    "image": "https://cdn.recast.ai/blog/pokebot/254.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/254.png",
     "evolutions": [
       {
         "id": 252,
@@ -7320,7 +7320,7 @@
       "fire"
     ],
     "name": "Torchic",
-    "image": "https://cdn.recast.ai/blog/pokebot/255.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/255.png",
     "evolutions": [
       {
         "id": 255,
@@ -7353,7 +7353,7 @@
       "fighting"
     ],
     "name": "Combusken",
-    "image": "https://cdn.recast.ai/blog/pokebot/256.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/256.png",
     "evolutions": [
       {
         "id": 255,
@@ -7386,7 +7386,7 @@
       "fighting"
     ],
     "name": "Blaziken",
-    "image": "https://cdn.recast.ai/blog/pokebot/257.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/257.png",
     "evolutions": [
       {
         "id": 255,
@@ -7418,7 +7418,7 @@
       "water"
     ],
     "name": "Mudkip",
-    "image": "https://cdn.recast.ai/blog/pokebot/258.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/258.png",
     "evolutions": [
       {
         "id": 258,
@@ -7451,7 +7451,7 @@
       "ground"
     ],
     "name": "Marshtomp",
-    "image": "https://cdn.recast.ai/blog/pokebot/259.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/259.png",
     "evolutions": [
       {
         "id": 258,
@@ -7484,7 +7484,7 @@
       "ground"
     ],
     "name": "Swampert",
-    "image": "https://cdn.recast.ai/blog/pokebot/260.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/260.png",
     "evolutions": [
       {
         "id": 258,
@@ -7516,7 +7516,7 @@
       "dark"
     ],
     "name": "Poochyena",
-    "image": "https://cdn.recast.ai/blog/pokebot/261.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/261.png",
     "evolutions": [
       {
         "id": 261,
@@ -7541,7 +7541,7 @@
       "dark"
     ],
     "name": "Mightyena",
-    "image": "https://cdn.recast.ai/blog/pokebot/262.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/262.png",
     "evolutions": [
       {
         "id": 261,
@@ -7566,7 +7566,7 @@
       "normal"
     ],
     "name": "Zigzagoon",
-    "image": "https://cdn.recast.ai/blog/pokebot/263.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/263.png",
     "evolutions": [
       {
         "id": 263,
@@ -7591,7 +7591,7 @@
       "normal"
     ],
     "name": "Linoone",
-    "image": "https://cdn.recast.ai/blog/pokebot/264.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/264.png",
     "evolutions": [
       {
         "id": 263,
@@ -7616,7 +7616,7 @@
       "bug"
     ],
     "name": "Wurmple",
-    "image": "https://cdn.recast.ai/blog/pokebot/265.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/265.png",
     "evolutions": [
       {
         "id": 265,
@@ -7662,7 +7662,7 @@
       "bug"
     ],
     "name": "Silcoon",
-    "image": "https://cdn.recast.ai/blog/pokebot/266.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/266.png",
     "evolutions": [
       {
         "id": 265,
@@ -7709,7 +7709,7 @@
       "flying"
     ],
     "name": "Beautifly",
-    "image": "https://cdn.recast.ai/blog/pokebot/267.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/267.png",
     "evolutions": [
       {
         "id": 265,
@@ -7755,7 +7755,7 @@
       "bug"
     ],
     "name": "Cascoon",
-    "image": "https://cdn.recast.ai/blog/pokebot/268.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/268.png",
     "evolutions": [
       {
         "id": 265,
@@ -7802,7 +7802,7 @@
       "poison"
     ],
     "name": "Dustox",
-    "image": "https://cdn.recast.ai/blog/pokebot/269.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/269.png",
     "evolutions": [
       {
         "id": 265,
@@ -7849,7 +7849,7 @@
       "grass"
     ],
     "name": "Lotad",
-    "image": "https://cdn.recast.ai/blog/pokebot/270.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/270.png",
     "evolutions": [
       {
         "id": 270,
@@ -7882,7 +7882,7 @@
       "grass"
     ],
     "name": "Lombre",
-    "image": "https://cdn.recast.ai/blog/pokebot/271.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/271.png",
     "evolutions": [
       {
         "id": 270,
@@ -7915,7 +7915,7 @@
       "grass"
     ],
     "name": "Ludicolo",
-    "image": "https://cdn.recast.ai/blog/pokebot/272.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/272.png",
     "evolutions": [
       {
         "id": 270,
@@ -7947,7 +7947,7 @@
       "grass"
     ],
     "name": "Seedot",
-    "image": "https://cdn.recast.ai/blog/pokebot/273.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/273.png",
     "evolutions": [
       {
         "id": 273,
@@ -7980,7 +7980,7 @@
       "dark"
     ],
     "name": "Nuzleaf",
-    "image": "https://cdn.recast.ai/blog/pokebot/274.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/274.png",
     "evolutions": [
       {
         "id": 273,
@@ -8013,7 +8013,7 @@
       "dark"
     ],
     "name": "Shiftry",
-    "image": "https://cdn.recast.ai/blog/pokebot/275.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/275.png",
     "evolutions": [
       {
         "id": 273,
@@ -8046,7 +8046,7 @@
       "flying"
     ],
     "name": "Taillow",
-    "image": "https://cdn.recast.ai/blog/pokebot/276.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/276.png",
     "evolutions": [
       {
         "id": 276,
@@ -8072,7 +8072,7 @@
       "flying"
     ],
     "name": "Swellow",
-    "image": "https://cdn.recast.ai/blog/pokebot/277.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/277.png",
     "evolutions": [
       {
         "id": 276,
@@ -8098,7 +8098,7 @@
       "flying"
     ],
     "name": "Wingull",
-    "image": "https://cdn.recast.ai/blog/pokebot/278.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/278.png",
     "evolutions": [
       {
         "id": 278,
@@ -8124,7 +8124,7 @@
       "flying"
     ],
     "name": "Pelipper",
-    "image": "https://cdn.recast.ai/blog/pokebot/279.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/279.png",
     "evolutions": [
       {
         "id": 278,
@@ -8150,7 +8150,7 @@
       "fairy"
     ],
     "name": "Ralts",
-    "image": "https://cdn.recast.ai/blog/pokebot/280.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/280.png",
     "evolutions": [
       {
         "id": 280,
@@ -8190,7 +8190,7 @@
       "fairy"
     ],
     "name": "Kirlia",
-    "image": "https://cdn.recast.ai/blog/pokebot/281.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/281.png",
     "evolutions": [
       {
         "id": 280,
@@ -8230,7 +8230,7 @@
       "fairy"
     ],
     "name": "Gardevoir",
-    "image": "https://cdn.recast.ai/blog/pokebot/282.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/282.png",
     "evolutions": [
       {
         "id": 280,
@@ -8270,7 +8270,7 @@
       "water"
     ],
     "name": "Surskit",
-    "image": "https://cdn.recast.ai/blog/pokebot/283.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/283.png",
     "evolutions": [
       {
         "id": 283,
@@ -8296,7 +8296,7 @@
       "flying"
     ],
     "name": "Masquerain",
-    "image": "https://cdn.recast.ai/blog/pokebot/284.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/284.png",
     "evolutions": [
       {
         "id": 283,
@@ -8321,7 +8321,7 @@
       "grass"
     ],
     "name": "Shroomish",
-    "image": "https://cdn.recast.ai/blog/pokebot/285.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/285.png",
     "evolutions": [
       {
         "id": 285,
@@ -8347,7 +8347,7 @@
       "fighting"
     ],
     "name": "Breloom",
-    "image": "https://cdn.recast.ai/blog/pokebot/286.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/286.png",
     "evolutions": [
       {
         "id": 285,
@@ -8372,7 +8372,7 @@
       "normal"
     ],
     "name": "Slakoth",
-    "image": "https://cdn.recast.ai/blog/pokebot/287.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/287.png",
     "evolutions": [
       {
         "id": 287,
@@ -8404,7 +8404,7 @@
       "normal"
     ],
     "name": "Vigoroth",
-    "image": "https://cdn.recast.ai/blog/pokebot/288.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/288.png",
     "evolutions": [
       {
         "id": 287,
@@ -8436,7 +8436,7 @@
       "normal"
     ],
     "name": "Slaking",
-    "image": "https://cdn.recast.ai/blog/pokebot/289.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/289.png",
     "evolutions": [
       {
         "id": 287,
@@ -8469,7 +8469,7 @@
       "ground"
     ],
     "name": "Nincada",
-    "image": "https://cdn.recast.ai/blog/pokebot/290.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/290.png",
     "evolutions": [
       {
         "id": 290,
@@ -8501,7 +8501,7 @@
       "flying"
     ],
     "name": "Ninjask",
-    "image": "https://cdn.recast.ai/blog/pokebot/291.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/291.png",
     "evolutions": [
       {
         "id": 290,
@@ -8533,7 +8533,7 @@
       "ghost"
     ],
     "name": "Shedinja",
-    "image": "https://cdn.recast.ai/blog/pokebot/292.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/292.png",
     "evolutions": [
       {
         "id": 290,
@@ -8564,7 +8564,7 @@
       "normal"
     ],
     "name": "Whismur",
-    "image": "https://cdn.recast.ai/blog/pokebot/293.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/293.png",
     "evolutions": [
       {
         "id": 293,
@@ -8596,7 +8596,7 @@
       "normal"
     ],
     "name": "Loudred",
-    "image": "https://cdn.recast.ai/blog/pokebot/294.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/294.png",
     "evolutions": [
       {
         "id": 293,
@@ -8628,7 +8628,7 @@
       "normal"
     ],
     "name": "Exploud",
-    "image": "https://cdn.recast.ai/blog/pokebot/295.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/295.png",
     "evolutions": [
       {
         "id": 293,
@@ -8660,7 +8660,7 @@
       "fighting"
     ],
     "name": "Makuhita",
-    "image": "https://cdn.recast.ai/blog/pokebot/296.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/296.png",
     "evolutions": [
       {
         "id": 296,
@@ -8685,7 +8685,7 @@
       "fighting"
     ],
     "name": "Hariyama",
-    "image": "https://cdn.recast.ai/blog/pokebot/297.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/297.png",
     "evolutions": [
       {
         "id": 296,
@@ -8711,7 +8711,7 @@
       "fairy"
     ],
     "name": "Azurill",
-    "image": "https://cdn.recast.ai/blog/pokebot/298.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/298.png",
     "evolutions": [
       {
         "id": 298,
@@ -8742,7 +8742,7 @@
       "rock"
     ],
     "name": "Nosepass",
-    "image": "https://cdn.recast.ai/blog/pokebot/299.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/299.png",
     "evolutions": [
       {
         "id": 299,
@@ -8766,7 +8766,7 @@
       "normal"
     ],
     "name": "Skitty",
-    "image": "https://cdn.recast.ai/blog/pokebot/300.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/300.png",
     "evolutions": [
       {
         "id": 300,
@@ -8791,7 +8791,7 @@
       "normal"
     ],
     "name": "Delcatty",
-    "image": "https://cdn.recast.ai/blog/pokebot/301.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/301.png",
     "evolutions": [
       {
         "id": 300,
@@ -8817,7 +8817,7 @@
       "ghost"
     ],
     "name": "Sableye",
-    "image": "https://cdn.recast.ai/blog/pokebot/302.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/302.png",
     "evolutions": [
       {
         "id": 302,
@@ -8836,7 +8836,7 @@
       "fairy"
     ],
     "name": "Mawile",
-    "image": "https://cdn.recast.ai/blog/pokebot/303.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/303.png",
     "evolutions": [
       {
         "id": 303,
@@ -8855,7 +8855,7 @@
       "rock"
     ],
     "name": "Aron",
-    "image": "https://cdn.recast.ai/blog/pokebot/304.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/304.png",
     "evolutions": [
       {
         "id": 304,
@@ -8888,7 +8888,7 @@
       "rock"
     ],
     "name": "Lairon",
-    "image": "https://cdn.recast.ai/blog/pokebot/305.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/305.png",
     "evolutions": [
       {
         "id": 304,
@@ -8921,7 +8921,7 @@
       "rock"
     ],
     "name": "Aggron",
-    "image": "https://cdn.recast.ai/blog/pokebot/306.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/306.png",
     "evolutions": [
       {
         "id": 304,
@@ -8954,7 +8954,7 @@
       "psychic"
     ],
     "name": "Meditite",
-    "image": "https://cdn.recast.ai/blog/pokebot/307.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/307.png",
     "evolutions": [
       {
         "id": 307,
@@ -8980,7 +8980,7 @@
       "psychic"
     ],
     "name": "Medicham",
-    "image": "https://cdn.recast.ai/blog/pokebot/308.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/308.png",
     "evolutions": [
       {
         "id": 307,
@@ -9005,7 +9005,7 @@
       "electric"
     ],
     "name": "Electrike",
-    "image": "https://cdn.recast.ai/blog/pokebot/309.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/309.png",
     "evolutions": [
       {
         "id": 309,
@@ -9030,7 +9030,7 @@
       "electric"
     ],
     "name": "Manectric",
-    "image": "https://cdn.recast.ai/blog/pokebot/310.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/310.png",
     "evolutions": [
       {
         "id": 309,
@@ -9055,7 +9055,7 @@
       "electric"
     ],
     "name": "Plusle",
-    "image": "https://cdn.recast.ai/blog/pokebot/311.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/311.png",
     "evolutions": [
       {
         "id": 311,
@@ -9073,7 +9073,7 @@
       "electric"
     ],
     "name": "Minun",
-    "image": "https://cdn.recast.ai/blog/pokebot/312.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/312.png",
     "evolutions": [
       {
         "id": 312,
@@ -9091,7 +9091,7 @@
       "bug"
     ],
     "name": "Volbeat",
-    "image": "https://cdn.recast.ai/blog/pokebot/313.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/313.png",
     "evolutions": [
       {
         "id": 313,
@@ -9109,7 +9109,7 @@
       "bug"
     ],
     "name": "Illumise",
-    "image": "https://cdn.recast.ai/blog/pokebot/314.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/314.png",
     "evolutions": [
       {
         "id": 314,
@@ -9128,7 +9128,7 @@
       "poison"
     ],
     "name": "Roselia",
-    "image": "https://cdn.recast.ai/blog/pokebot/315.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/315.png",
     "evolutions": [
       {
         "id": 406,
@@ -9159,7 +9159,7 @@
       "poison"
     ],
     "name": "Gulpin",
-    "image": "https://cdn.recast.ai/blog/pokebot/316.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/316.png",
     "evolutions": [
       {
         "id": 316,
@@ -9184,7 +9184,7 @@
       "poison"
     ],
     "name": "Swalot",
-    "image": "https://cdn.recast.ai/blog/pokebot/317.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/317.png",
     "evolutions": [
       {
         "id": 316,
@@ -9210,7 +9210,7 @@
       "dark"
     ],
     "name": "Carvanha",
-    "image": "https://cdn.recast.ai/blog/pokebot/318.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/318.png",
     "evolutions": [
       {
         "id": 318,
@@ -9236,7 +9236,7 @@
       "dark"
     ],
     "name": "Sharpedo",
-    "image": "https://cdn.recast.ai/blog/pokebot/319.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/319.png",
     "evolutions": [
       {
         "id": 318,
@@ -9261,7 +9261,7 @@
       "water"
     ],
     "name": "Wailmer",
-    "image": "https://cdn.recast.ai/blog/pokebot/320.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/320.png",
     "evolutions": [
       {
         "id": 320,
@@ -9286,7 +9286,7 @@
       "water"
     ],
     "name": "Wailord",
-    "image": "https://cdn.recast.ai/blog/pokebot/321.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/321.png",
     "evolutions": [
       {
         "id": 320,
@@ -9312,7 +9312,7 @@
       "ground"
     ],
     "name": "Numel",
-    "image": "https://cdn.recast.ai/blog/pokebot/322.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/322.png",
     "evolutions": [
       {
         "id": 322,
@@ -9338,7 +9338,7 @@
       "ground"
     ],
     "name": "Camerupt",
-    "image": "https://cdn.recast.ai/blog/pokebot/323.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/323.png",
     "evolutions": [
       {
         "id": 322,
@@ -9363,7 +9363,7 @@
       "fire"
     ],
     "name": "Torkoal",
-    "image": "https://cdn.recast.ai/blog/pokebot/324.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/324.png",
     "evolutions": [
       {
         "id": 324,
@@ -9381,7 +9381,7 @@
       "psychic"
     ],
     "name": "Spoink",
-    "image": "https://cdn.recast.ai/blog/pokebot/325.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/325.png",
     "evolutions": [
       {
         "id": 325,
@@ -9406,7 +9406,7 @@
       "psychic"
     ],
     "name": "Grumpig",
-    "image": "https://cdn.recast.ai/blog/pokebot/326.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/326.png",
     "evolutions": [
       {
         "id": 325,
@@ -9431,7 +9431,7 @@
       "normal"
     ],
     "name": "Spinda",
-    "image": "https://cdn.recast.ai/blog/pokebot/327.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/327.png",
     "evolutions": [
       {
         "id": 327,
@@ -9449,7 +9449,7 @@
       "ground"
     ],
     "name": "Trapinch",
-    "image": "https://cdn.recast.ai/blog/pokebot/328.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/328.png",
     "evolutions": [
       {
         "id": 328,
@@ -9482,7 +9482,7 @@
       "dragon"
     ],
     "name": "Vibrava",
-    "image": "https://cdn.recast.ai/blog/pokebot/329.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/329.png",
     "evolutions": [
       {
         "id": 328,
@@ -9515,7 +9515,7 @@
       "dragon"
     ],
     "name": "Flygon",
-    "image": "https://cdn.recast.ai/blog/pokebot/330.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/330.png",
     "evolutions": [
       {
         "id": 328,
@@ -9547,7 +9547,7 @@
       "grass"
     ],
     "name": "Cacnea",
-    "image": "https://cdn.recast.ai/blog/pokebot/331.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/331.png",
     "evolutions": [
       {
         "id": 331,
@@ -9573,7 +9573,7 @@
       "dark"
     ],
     "name": "Cacturne",
-    "image": "https://cdn.recast.ai/blog/pokebot/332.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/332.png",
     "evolutions": [
       {
         "id": 331,
@@ -9599,7 +9599,7 @@
       "flying"
     ],
     "name": "Swablu",
-    "image": "https://cdn.recast.ai/blog/pokebot/333.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/333.png",
     "evolutions": [
       {
         "id": 333,
@@ -9625,7 +9625,7 @@
       "flying"
     ],
     "name": "Altaria",
-    "image": "https://cdn.recast.ai/blog/pokebot/334.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/334.png",
     "evolutions": [
       {
         "id": 333,
@@ -9650,7 +9650,7 @@
       "normal"
     ],
     "name": "Zangoose",
-    "image": "https://cdn.recast.ai/blog/pokebot/335.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/335.png",
     "evolutions": [
       {
         "id": 335,
@@ -9668,7 +9668,7 @@
       "poison"
     ],
     "name": "Seviper",
-    "image": "https://cdn.recast.ai/blog/pokebot/336.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/336.png",
     "evolutions": [
       {
         "id": 336,
@@ -9687,7 +9687,7 @@
       "psychic"
     ],
     "name": "Lunatone",
-    "image": "https://cdn.recast.ai/blog/pokebot/337.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/337.png",
     "evolutions": [
       {
         "id": 337,
@@ -9706,7 +9706,7 @@
       "psychic"
     ],
     "name": "Solrock",
-    "image": "https://cdn.recast.ai/blog/pokebot/338.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/338.png",
     "evolutions": [
       {
         "id": 338,
@@ -9725,7 +9725,7 @@
       "ground"
     ],
     "name": "Barboach",
-    "image": "https://cdn.recast.ai/blog/pokebot/339.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/339.png",
     "evolutions": [
       {
         "id": 339,
@@ -9751,7 +9751,7 @@
       "ground"
     ],
     "name": "Whiscash",
-    "image": "https://cdn.recast.ai/blog/pokebot/340.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/340.png",
     "evolutions": [
       {
         "id": 339,
@@ -9776,7 +9776,7 @@
       "water"
     ],
     "name": "Corphish",
-    "image": "https://cdn.recast.ai/blog/pokebot/341.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/341.png",
     "evolutions": [
       {
         "id": 341,
@@ -9802,7 +9802,7 @@
       "dark"
     ],
     "name": "Crawdaunt",
-    "image": "https://cdn.recast.ai/blog/pokebot/342.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/342.png",
     "evolutions": [
       {
         "id": 341,
@@ -9828,7 +9828,7 @@
       "psychic"
     ],
     "name": "Baltoy",
-    "image": "https://cdn.recast.ai/blog/pokebot/343.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/343.png",
     "evolutions": [
       {
         "id": 343,
@@ -9854,7 +9854,7 @@
       "psychic"
     ],
     "name": "Claydol",
-    "image": "https://cdn.recast.ai/blog/pokebot/344.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/344.png",
     "evolutions": [
       {
         "id": 343,
@@ -9880,7 +9880,7 @@
       "grass"
     ],
     "name": "Lileep",
-    "image": "https://cdn.recast.ai/blog/pokebot/345.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/345.png",
     "evolutions": [
       {
         "id": 345,
@@ -9906,7 +9906,7 @@
       "grass"
     ],
     "name": "Cradily",
-    "image": "https://cdn.recast.ai/blog/pokebot/346.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/346.png",
     "evolutions": [
       {
         "id": 345,
@@ -9932,7 +9932,7 @@
       "bug"
     ],
     "name": "Anorith",
-    "image": "https://cdn.recast.ai/blog/pokebot/347.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/347.png",
     "evolutions": [
       {
         "id": 347,
@@ -9958,7 +9958,7 @@
       "bug"
     ],
     "name": "Armaldo",
-    "image": "https://cdn.recast.ai/blog/pokebot/348.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/348.png",
     "evolutions": [
       {
         "id": 347,
@@ -9983,7 +9983,7 @@
       "water"
     ],
     "name": "Feebas",
-    "image": "https://cdn.recast.ai/blog/pokebot/349.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/349.png",
     "evolutions": [
       {
         "id": 349,
@@ -10007,7 +10007,7 @@
       "water"
     ],
     "name": "Milotic",
-    "image": "https://cdn.recast.ai/blog/pokebot/350.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/350.png",
     "evolutions": [
       {
         "id": 349,
@@ -10031,7 +10031,7 @@
       "normal"
     ],
     "name": "Castform",
-    "image": "https://cdn.recast.ai/blog/pokebot/351.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/351.png",
     "evolutions": [
       {
         "id": 351,
@@ -10049,7 +10049,7 @@
       "normal"
     ],
     "name": "Kecleon",
-    "image": "https://cdn.recast.ai/blog/pokebot/352.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/352.png",
     "evolutions": [
       {
         "id": 352,
@@ -10067,7 +10067,7 @@
       "ghost"
     ],
     "name": "Shuppet",
-    "image": "https://cdn.recast.ai/blog/pokebot/353.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/353.png",
     "evolutions": [
       {
         "id": 353,
@@ -10092,7 +10092,7 @@
       "ghost"
     ],
     "name": "Banette",
-    "image": "https://cdn.recast.ai/blog/pokebot/354.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/354.png",
     "evolutions": [
       {
         "id": 353,
@@ -10117,7 +10117,7 @@
       "ghost"
     ],
     "name": "Duskull",
-    "image": "https://cdn.recast.ai/blog/pokebot/355.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/355.png",
     "evolutions": [
       {
         "id": 355,
@@ -10148,7 +10148,7 @@
       "ghost"
     ],
     "name": "Dusclops",
-    "image": "https://cdn.recast.ai/blog/pokebot/356.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/356.png",
     "evolutions": [
       {
         "id": 355,
@@ -10180,7 +10180,7 @@
       "flying"
     ],
     "name": "Tropius",
-    "image": "https://cdn.recast.ai/blog/pokebot/357.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/357.png",
     "evolutions": [
       {
         "id": 357,
@@ -10198,7 +10198,7 @@
       "psychic"
     ],
     "name": "Chimecho",
-    "image": "https://cdn.recast.ai/blog/pokebot/358.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/358.png",
     "evolutions": [
       {
         "id": 433,
@@ -10222,7 +10222,7 @@
       "dark"
     ],
     "name": "Absol",
-    "image": "https://cdn.recast.ai/blog/pokebot/359.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/359.png",
     "evolutions": [
       {
         "id": 359,
@@ -10240,7 +10240,7 @@
       "psychic"
     ],
     "name": "Wynaut",
-    "image": "https://cdn.recast.ai/blog/pokebot/360.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/360.png",
     "evolutions": [
       {
         "id": 360,
@@ -10265,7 +10265,7 @@
       "ice"
     ],
     "name": "Snorunt",
-    "image": "https://cdn.recast.ai/blog/pokebot/361.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/361.png",
     "evolutions": [
       {
         "id": 361,
@@ -10297,7 +10297,7 @@
       "ice"
     ],
     "name": "Glalie",
-    "image": "https://cdn.recast.ai/blog/pokebot/362.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/362.png",
     "evolutions": [
       {
         "id": 361,
@@ -10330,7 +10330,7 @@
       "water"
     ],
     "name": "Spheal",
-    "image": "https://cdn.recast.ai/blog/pokebot/363.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/363.png",
     "evolutions": [
       {
         "id": 363,
@@ -10363,7 +10363,7 @@
       "water"
     ],
     "name": "Sealeo",
-    "image": "https://cdn.recast.ai/blog/pokebot/364.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/364.png",
     "evolutions": [
       {
         "id": 363,
@@ -10396,7 +10396,7 @@
       "water"
     ],
     "name": "Walrein",
-    "image": "https://cdn.recast.ai/blog/pokebot/365.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/365.png",
     "evolutions": [
       {
         "id": 363,
@@ -10428,7 +10428,7 @@
       "water"
     ],
     "name": "Clamperl",
-    "image": "https://cdn.recast.ai/blog/pokebot/366.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/366.png",
     "evolutions": [
       {
         "id": 366,
@@ -10458,7 +10458,7 @@
       "water"
     ],
     "name": "Huntail",
-    "image": "https://cdn.recast.ai/blog/pokebot/367.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/367.png",
     "evolutions": [
       {
         "id": 366,
@@ -10488,7 +10488,7 @@
       "water"
     ],
     "name": "Gorebyss",
-    "image": "https://cdn.recast.ai/blog/pokebot/368.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/368.png",
     "evolutions": [
       {
         "id": 366,
@@ -10519,7 +10519,7 @@
       "rock"
     ],
     "name": "Relicanth",
-    "image": "https://cdn.recast.ai/blog/pokebot/369.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/369.png",
     "evolutions": [
       {
         "id": 369,
@@ -10537,7 +10537,7 @@
       "water"
     ],
     "name": "Luvdisc",
-    "image": "https://cdn.recast.ai/blog/pokebot/370.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/370.png",
     "evolutions": [
       {
         "id": 370,
@@ -10555,7 +10555,7 @@
       "dragon"
     ],
     "name": "Bagon",
-    "image": "https://cdn.recast.ai/blog/pokebot/371.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/371.png",
     "evolutions": [
       {
         "id": 371,
@@ -10587,7 +10587,7 @@
       "dragon"
     ],
     "name": "Shelgon",
-    "image": "https://cdn.recast.ai/blog/pokebot/372.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/372.png",
     "evolutions": [
       {
         "id": 371,
@@ -10620,7 +10620,7 @@
       "flying"
     ],
     "name": "Salamence",
-    "image": "https://cdn.recast.ai/blog/pokebot/373.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/373.png",
     "evolutions": [
       {
         "id": 371,
@@ -10653,7 +10653,7 @@
       "psychic"
     ],
     "name": "Beldum",
-    "image": "https://cdn.recast.ai/blog/pokebot/374.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/374.png",
     "evolutions": [
       {
         "id": 374,
@@ -10686,7 +10686,7 @@
       "psychic"
     ],
     "name": "Metang",
-    "image": "https://cdn.recast.ai/blog/pokebot/375.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/375.png",
     "evolutions": [
       {
         "id": 374,
@@ -10719,7 +10719,7 @@
       "psychic"
     ],
     "name": "Metagross",
-    "image": "https://cdn.recast.ai/blog/pokebot/376.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/376.png",
     "evolutions": [
       {
         "id": 374,
@@ -10751,7 +10751,7 @@
       "rock"
     ],
     "name": "Regirock",
-    "image": "https://cdn.recast.ai/blog/pokebot/377.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/377.png",
     "evolutions": [
       {
         "id": 377,
@@ -10769,7 +10769,7 @@
       "ice"
     ],
     "name": "Regice",
-    "image": "https://cdn.recast.ai/blog/pokebot/378.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/378.png",
     "evolutions": [
       {
         "id": 378,
@@ -10787,7 +10787,7 @@
       "steel"
     ],
     "name": "Registeel",
-    "image": "https://cdn.recast.ai/blog/pokebot/379.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/379.png",
     "evolutions": [
       {
         "id": 379,
@@ -10806,7 +10806,7 @@
       "psychic"
     ],
     "name": "Latias",
-    "image": "https://cdn.recast.ai/blog/pokebot/380.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/380.png",
     "evolutions": [
       {
         "id": 380,
@@ -10825,7 +10825,7 @@
       "psychic"
     ],
     "name": "Latios",
-    "image": "https://cdn.recast.ai/blog/pokebot/381.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/381.png",
     "evolutions": [
       {
         "id": 381,
@@ -10843,7 +10843,7 @@
       "water"
     ],
     "name": "Kyogre",
-    "image": "https://cdn.recast.ai/blog/pokebot/382.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/382.png",
     "evolutions": [
       {
         "id": 382,
@@ -10861,7 +10861,7 @@
       "ground"
     ],
     "name": "Groudon",
-    "image": "https://cdn.recast.ai/blog/pokebot/383.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/383.png",
     "evolutions": [
       {
         "id": 383,
@@ -10880,7 +10880,7 @@
       "flying"
     ],
     "name": "Rayquaza",
-    "image": "https://cdn.recast.ai/blog/pokebot/384.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/384.png",
     "evolutions": [
       {
         "id": 384,
@@ -10899,7 +10899,7 @@
       "psychic"
     ],
     "name": "Jirachi",
-    "image": "https://cdn.recast.ai/blog/pokebot/385.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/385.png",
     "evolutions": [
       {
         "id": 385,
@@ -10917,7 +10917,7 @@
       "psychic"
     ],
     "name": "Deoxys-normal",
-    "image": "https://cdn.recast.ai/blog/pokebot/386.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/386.png",
     "evolutions": [
       {
         "id": 386,
@@ -10935,7 +10935,7 @@
       "grass"
     ],
     "name": "Turtwig",
-    "image": "https://cdn.recast.ai/blog/pokebot/387.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/387.png",
     "evolutions": [
       {
         "id": 387,
@@ -10967,7 +10967,7 @@
       "grass"
     ],
     "name": "Grotle",
-    "image": "https://cdn.recast.ai/blog/pokebot/388.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/388.png",
     "evolutions": [
       {
         "id": 387,
@@ -11000,7 +11000,7 @@
       "ground"
     ],
     "name": "Torterra",
-    "image": "https://cdn.recast.ai/blog/pokebot/389.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/389.png",
     "evolutions": [
       {
         "id": 387,
@@ -11032,7 +11032,7 @@
       "fire"
     ],
     "name": "Chimchar",
-    "image": "https://cdn.recast.ai/blog/pokebot/390.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/390.png",
     "evolutions": [
       {
         "id": 390,
@@ -11065,7 +11065,7 @@
       "fighting"
     ],
     "name": "Monferno",
-    "image": "https://cdn.recast.ai/blog/pokebot/391.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/391.png",
     "evolutions": [
       {
         "id": 390,
@@ -11098,7 +11098,7 @@
       "fighting"
     ],
     "name": "Infernape",
-    "image": "https://cdn.recast.ai/blog/pokebot/392.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/392.png",
     "evolutions": [
       {
         "id": 390,
@@ -11130,7 +11130,7 @@
       "water"
     ],
     "name": "Piplup",
-    "image": "https://cdn.recast.ai/blog/pokebot/393.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/393.png",
     "evolutions": [
       {
         "id": 393,
@@ -11162,7 +11162,7 @@
       "water"
     ],
     "name": "Prinplup",
-    "image": "https://cdn.recast.ai/blog/pokebot/394.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/394.png",
     "evolutions": [
       {
         "id": 393,
@@ -11195,7 +11195,7 @@
       "steel"
     ],
     "name": "Empoleon",
-    "image": "https://cdn.recast.ai/blog/pokebot/395.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/395.png",
     "evolutions": [
       {
         "id": 393,
@@ -11228,7 +11228,7 @@
       "flying"
     ],
     "name": "Starly",
-    "image": "https://cdn.recast.ai/blog/pokebot/396.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/396.png",
     "evolutions": [
       {
         "id": 396,
@@ -11261,7 +11261,7 @@
       "flying"
     ],
     "name": "Staravia",
-    "image": "https://cdn.recast.ai/blog/pokebot/397.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/397.png",
     "evolutions": [
       {
         "id": 396,
@@ -11294,7 +11294,7 @@
       "flying"
     ],
     "name": "Staraptor",
-    "image": "https://cdn.recast.ai/blog/pokebot/398.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/398.png",
     "evolutions": [
       {
         "id": 396,
@@ -11326,7 +11326,7 @@
       "normal"
     ],
     "name": "Bidoof",
-    "image": "https://cdn.recast.ai/blog/pokebot/399.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/399.png",
     "evolutions": [
       {
         "id": 399,
@@ -11352,7 +11352,7 @@
       "water"
     ],
     "name": "Bibarel",
-    "image": "https://cdn.recast.ai/blog/pokebot/400.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/400.png",
     "evolutions": [
       {
         "id": 399,
@@ -11377,7 +11377,7 @@
       "bug"
     ],
     "name": "Kricketot",
-    "image": "https://cdn.recast.ai/blog/pokebot/401.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/401.png",
     "evolutions": [
       {
         "id": 401,
@@ -11402,7 +11402,7 @@
       "bug"
     ],
     "name": "Kricketune",
-    "image": "https://cdn.recast.ai/blog/pokebot/402.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/402.png",
     "evolutions": [
       {
         "id": 401,
@@ -11427,7 +11427,7 @@
       "electric"
     ],
     "name": "Shinx",
-    "image": "https://cdn.recast.ai/blog/pokebot/403.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/403.png",
     "evolutions": [
       {
         "id": 403,
@@ -11459,7 +11459,7 @@
       "electric"
     ],
     "name": "Luxio",
-    "image": "https://cdn.recast.ai/blog/pokebot/404.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/404.png",
     "evolutions": [
       {
         "id": 403,
@@ -11491,7 +11491,7 @@
       "electric"
     ],
     "name": "Luxray",
-    "image": "https://cdn.recast.ai/blog/pokebot/405.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/405.png",
     "evolutions": [
       {
         "id": 403,
@@ -11524,7 +11524,7 @@
       "poison"
     ],
     "name": "Budew",
-    "image": "https://cdn.recast.ai/blog/pokebot/406.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/406.png",
     "evolutions": [
       {
         "id": 406,
@@ -11556,7 +11556,7 @@
       "poison"
     ],
     "name": "Roserade",
-    "image": "https://cdn.recast.ai/blog/pokebot/407.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/407.png",
     "evolutions": [
       {
         "id": 406,
@@ -11587,7 +11587,7 @@
       "rock"
     ],
     "name": "Cranidos",
-    "image": "https://cdn.recast.ai/blog/pokebot/408.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/408.png",
     "evolutions": [
       {
         "id": 408,
@@ -11612,7 +11612,7 @@
       "rock"
     ],
     "name": "Rampardos",
-    "image": "https://cdn.recast.ai/blog/pokebot/409.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/409.png",
     "evolutions": [
       {
         "id": 408,
@@ -11638,7 +11638,7 @@
       "steel"
     ],
     "name": "Shieldon",
-    "image": "https://cdn.recast.ai/blog/pokebot/410.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/410.png",
     "evolutions": [
       {
         "id": 410,
@@ -11664,7 +11664,7 @@
       "steel"
     ],
     "name": "Bastiodon",
-    "image": "https://cdn.recast.ai/blog/pokebot/411.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/411.png",
     "evolutions": [
       {
         "id": 410,
@@ -11689,7 +11689,7 @@
       "bug"
     ],
     "name": "Burmy",
-    "image": "https://cdn.recast.ai/blog/pokebot/412.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/412.png",
     "evolutions": [
       {
         "id": 412,
@@ -11722,7 +11722,7 @@
       "grass"
     ],
     "name": "Wormadam-plant",
-    "image": "https://cdn.recast.ai/blog/pokebot/413.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/413.png",
     "evolutions": [
       {
         "id": 412,
@@ -11755,7 +11755,7 @@
       "flying"
     ],
     "name": "Mothim",
-    "image": "https://cdn.recast.ai/blog/pokebot/414.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/414.png",
     "evolutions": [
       {
         "id": 412,
@@ -11788,7 +11788,7 @@
       "flying"
     ],
     "name": "Combee",
-    "image": "https://cdn.recast.ai/blog/pokebot/415.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/415.png",
     "evolutions": [
       {
         "id": 415,
@@ -11814,7 +11814,7 @@
       "flying"
     ],
     "name": "Vespiquen",
-    "image": "https://cdn.recast.ai/blog/pokebot/416.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/416.png",
     "evolutions": [
       {
         "id": 415,
@@ -11839,7 +11839,7 @@
       "electric"
     ],
     "name": "Pachirisu",
-    "image": "https://cdn.recast.ai/blog/pokebot/417.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/417.png",
     "evolutions": [
       {
         "id": 417,
@@ -11857,7 +11857,7 @@
       "water"
     ],
     "name": "Buizel",
-    "image": "https://cdn.recast.ai/blog/pokebot/418.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/418.png",
     "evolutions": [
       {
         "id": 418,
@@ -11882,7 +11882,7 @@
       "water"
     ],
     "name": "Floatzel",
-    "image": "https://cdn.recast.ai/blog/pokebot/419.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/419.png",
     "evolutions": [
       {
         "id": 418,
@@ -11907,7 +11907,7 @@
       "grass"
     ],
     "name": "Cherubi",
-    "image": "https://cdn.recast.ai/blog/pokebot/420.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/420.png",
     "evolutions": [
       {
         "id": 420,
@@ -11932,7 +11932,7 @@
       "grass"
     ],
     "name": "Cherrim",
-    "image": "https://cdn.recast.ai/blog/pokebot/421.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/421.png",
     "evolutions": [
       {
         "id": 420,
@@ -11957,7 +11957,7 @@
       "water"
     ],
     "name": "Shellos",
-    "image": "https://cdn.recast.ai/blog/pokebot/422.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/422.png",
     "evolutions": [
       {
         "id": 422,
@@ -11983,7 +11983,7 @@
       "ground"
     ],
     "name": "Gastrodon",
-    "image": "https://cdn.recast.ai/blog/pokebot/423.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/423.png",
     "evolutions": [
       {
         "id": 422,
@@ -12008,7 +12008,7 @@
       "normal"
     ],
     "name": "Ambipom",
-    "image": "https://cdn.recast.ai/blog/pokebot/424.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/424.png",
     "evolutions": [
       {
         "id": 190,
@@ -12033,7 +12033,7 @@
       "flying"
     ],
     "name": "Drifloon",
-    "image": "https://cdn.recast.ai/blog/pokebot/425.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/425.png",
     "evolutions": [
       {
         "id": 425,
@@ -12059,7 +12059,7 @@
       "flying"
     ],
     "name": "Drifblim",
-    "image": "https://cdn.recast.ai/blog/pokebot/426.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/426.png",
     "evolutions": [
       {
         "id": 425,
@@ -12084,7 +12084,7 @@
       "normal"
     ],
     "name": "Buneary",
-    "image": "https://cdn.recast.ai/blog/pokebot/427.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/427.png",
     "evolutions": [
       {
         "id": 427,
@@ -12108,7 +12108,7 @@
       "normal"
     ],
     "name": "Lopunny",
-    "image": "https://cdn.recast.ai/blog/pokebot/428.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/428.png",
     "evolutions": [
       {
         "id": 427,
@@ -12132,7 +12132,7 @@
       "ghost"
     ],
     "name": "Mismagius",
-    "image": "https://cdn.recast.ai/blog/pokebot/429.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/429.png",
     "evolutions": [
       {
         "id": 200,
@@ -12158,7 +12158,7 @@
       "flying"
     ],
     "name": "Honchkrow",
-    "image": "https://cdn.recast.ai/blog/pokebot/430.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/430.png",
     "evolutions": [
       {
         "id": 198,
@@ -12183,7 +12183,7 @@
       "normal"
     ],
     "name": "Glameow",
-    "image": "https://cdn.recast.ai/blog/pokebot/431.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/431.png",
     "evolutions": [
       {
         "id": 431,
@@ -12208,7 +12208,7 @@
       "normal"
     ],
     "name": "Purugly",
-    "image": "https://cdn.recast.ai/blog/pokebot/432.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/432.png",
     "evolutions": [
       {
         "id": 431,
@@ -12233,7 +12233,7 @@
       "psychic"
     ],
     "name": "Chingling",
-    "image": "https://cdn.recast.ai/blog/pokebot/433.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/433.png",
     "evolutions": [
       {
         "id": 433,
@@ -12258,7 +12258,7 @@
       "dark"
     ],
     "name": "Stunky",
-    "image": "https://cdn.recast.ai/blog/pokebot/434.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/434.png",
     "evolutions": [
       {
         "id": 434,
@@ -12284,7 +12284,7 @@
       "dark"
     ],
     "name": "Skuntank",
-    "image": "https://cdn.recast.ai/blog/pokebot/435.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/435.png",
     "evolutions": [
       {
         "id": 434,
@@ -12310,7 +12310,7 @@
       "psychic"
     ],
     "name": "Bronzor",
-    "image": "https://cdn.recast.ai/blog/pokebot/436.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/436.png",
     "evolutions": [
       {
         "id": 436,
@@ -12336,7 +12336,7 @@
       "psychic"
     ],
     "name": "Bronzong",
-    "image": "https://cdn.recast.ai/blog/pokebot/437.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/437.png",
     "evolutions": [
       {
         "id": 436,
@@ -12361,7 +12361,7 @@
       "rock"
     ],
     "name": "Bonsly",
-    "image": "https://cdn.recast.ai/blog/pokebot/438.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/438.png",
     "evolutions": [
       {
         "id": 438,
@@ -12386,7 +12386,7 @@
       "fairy"
     ],
     "name": "Mime-jr",
-    "image": "https://cdn.recast.ai/blog/pokebot/439.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/439.png",
     "evolutions": [
       {
         "id": 439,
@@ -12410,7 +12410,7 @@
       "normal"
     ],
     "name": "Happiny",
-    "image": "https://cdn.recast.ai/blog/pokebot/440.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/440.png",
     "evolutions": [
       {
         "id": 440,
@@ -12441,7 +12441,7 @@
       "flying"
     ],
     "name": "Chatot",
-    "image": "https://cdn.recast.ai/blog/pokebot/441.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/441.png",
     "evolutions": [
       {
         "id": 441,
@@ -12460,7 +12460,7 @@
       "dark"
     ],
     "name": "Spiritomb",
-    "image": "https://cdn.recast.ai/blog/pokebot/442.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/442.png",
     "evolutions": [
       {
         "id": 442,
@@ -12479,7 +12479,7 @@
       "ground"
     ],
     "name": "Gible",
-    "image": "https://cdn.recast.ai/blog/pokebot/443.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/443.png",
     "evolutions": [
       {
         "id": 443,
@@ -12512,7 +12512,7 @@
       "ground"
     ],
     "name": "Gabite",
-    "image": "https://cdn.recast.ai/blog/pokebot/444.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/444.png",
     "evolutions": [
       {
         "id": 443,
@@ -12545,7 +12545,7 @@
       "ground"
     ],
     "name": "Garchomp",
-    "image": "https://cdn.recast.ai/blog/pokebot/445.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/445.png",
     "evolutions": [
       {
         "id": 443,
@@ -12577,7 +12577,7 @@
       "normal"
     ],
     "name": "Munchlax",
-    "image": "https://cdn.recast.ai/blog/pokebot/446.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/446.png",
     "evolutions": [
       {
         "id": 446,
@@ -12601,7 +12601,7 @@
       "fighting"
     ],
     "name": "Riolu",
-    "image": "https://cdn.recast.ai/blog/pokebot/447.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/447.png",
     "evolutions": [
       {
         "id": 447,
@@ -12626,7 +12626,7 @@
       "steel"
     ],
     "name": "Lucario",
-    "image": "https://cdn.recast.ai/blog/pokebot/448.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/448.png",
     "evolutions": [
       {
         "id": 447,
@@ -12650,7 +12650,7 @@
       "ground"
     ],
     "name": "Hippopotas",
-    "image": "https://cdn.recast.ai/blog/pokebot/449.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/449.png",
     "evolutions": [
       {
         "id": 449,
@@ -12675,7 +12675,7 @@
       "ground"
     ],
     "name": "Hippowdon",
-    "image": "https://cdn.recast.ai/blog/pokebot/450.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/450.png",
     "evolutions": [
       {
         "id": 449,
@@ -12701,7 +12701,7 @@
       "bug"
     ],
     "name": "Skorupi",
-    "image": "https://cdn.recast.ai/blog/pokebot/451.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/451.png",
     "evolutions": [
       {
         "id": 451,
@@ -12727,7 +12727,7 @@
       "dark"
     ],
     "name": "Drapion",
-    "image": "https://cdn.recast.ai/blog/pokebot/452.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/452.png",
     "evolutions": [
       {
         "id": 451,
@@ -12753,7 +12753,7 @@
       "fighting"
     ],
     "name": "Croagunk",
-    "image": "https://cdn.recast.ai/blog/pokebot/453.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/453.png",
     "evolutions": [
       {
         "id": 453,
@@ -12779,7 +12779,7 @@
       "fighting"
     ],
     "name": "Toxicroak",
-    "image": "https://cdn.recast.ai/blog/pokebot/454.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/454.png",
     "evolutions": [
       {
         "id": 453,
@@ -12804,7 +12804,7 @@
       "grass"
     ],
     "name": "Carnivine",
-    "image": "https://cdn.recast.ai/blog/pokebot/455.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/455.png",
     "evolutions": [
       {
         "id": 455,
@@ -12822,7 +12822,7 @@
       "water"
     ],
     "name": "Finneon",
-    "image": "https://cdn.recast.ai/blog/pokebot/456.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/456.png",
     "evolutions": [
       {
         "id": 456,
@@ -12847,7 +12847,7 @@
       "water"
     ],
     "name": "Lumineon",
-    "image": "https://cdn.recast.ai/blog/pokebot/457.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/457.png",
     "evolutions": [
       {
         "id": 456,
@@ -12873,7 +12873,7 @@
       "flying"
     ],
     "name": "Mantyke",
-    "image": "https://cdn.recast.ai/blog/pokebot/458.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/458.png",
     "evolutions": [
       {
         "id": 458,
@@ -12898,7 +12898,7 @@
       "ice"
     ],
     "name": "Snover",
-    "image": "https://cdn.recast.ai/blog/pokebot/459.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/459.png",
     "evolutions": [
       {
         "id": 459,
@@ -12924,7 +12924,7 @@
       "ice"
     ],
     "name": "Abomasnow",
-    "image": "https://cdn.recast.ai/blog/pokebot/460.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/460.png",
     "evolutions": [
       {
         "id": 459,
@@ -12950,7 +12950,7 @@
       "ice"
     ],
     "name": "Weavile",
-    "image": "https://cdn.recast.ai/blog/pokebot/461.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/461.png",
     "evolutions": [
       {
         "id": 215,
@@ -12975,7 +12975,7 @@
       "steel"
     ],
     "name": "Magnezone",
-    "image": "https://cdn.recast.ai/blog/pokebot/462.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/462.png",
     "evolutions": [
       {
         "id": 81,
@@ -13006,7 +13006,7 @@
       "normal"
     ],
     "name": "Lickilicky",
-    "image": "https://cdn.recast.ai/blog/pokebot/463.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/463.png",
     "evolutions": [
       {
         "id": 108,
@@ -13031,7 +13031,7 @@
       "rock"
     ],
     "name": "Rhyperior",
-    "image": "https://cdn.recast.ai/blog/pokebot/464.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/464.png",
     "evolutions": [
       {
         "id": 111,
@@ -13062,7 +13062,7 @@
       "grass"
     ],
     "name": "Tangrowth",
-    "image": "https://cdn.recast.ai/blog/pokebot/465.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/465.png",
     "evolutions": [
       {
         "id": 114,
@@ -13086,7 +13086,7 @@
       "electric"
     ],
     "name": "Electivire",
-    "image": "https://cdn.recast.ai/blog/pokebot/466.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/466.png",
     "evolutions": [
       {
         "id": 239,
@@ -13117,7 +13117,7 @@
       "fire"
     ],
     "name": "Magmortar",
-    "image": "https://cdn.recast.ai/blog/pokebot/467.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/467.png",
     "evolutions": [
       {
         "id": 240,
@@ -13149,7 +13149,7 @@
       "flying"
     ],
     "name": "Togekiss",
-    "image": "https://cdn.recast.ai/blog/pokebot/468.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/468.png",
     "evolutions": [
       {
         "id": 175,
@@ -13181,7 +13181,7 @@
       "flying"
     ],
     "name": "Yanmega",
-    "image": "https://cdn.recast.ai/blog/pokebot/469.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/469.png",
     "evolutions": [
       {
         "id": 193,
@@ -13205,7 +13205,7 @@
       "grass"
     ],
     "name": "Leafeon",
-    "image": "https://cdn.recast.ai/blog/pokebot/470.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/470.png",
     "evolutions": [
       {
         "id": 133,
@@ -13274,7 +13274,7 @@
       "ice"
     ],
     "name": "Glaceon",
-    "image": "https://cdn.recast.ai/blog/pokebot/471.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/471.png",
     "evolutions": [
       {
         "id": 133,
@@ -13344,7 +13344,7 @@
       "flying"
     ],
     "name": "Gliscor",
-    "image": "https://cdn.recast.ai/blog/pokebot/472.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/472.png",
     "evolutions": [
       {
         "id": 207,
@@ -13369,7 +13369,7 @@
       "ground"
     ],
     "name": "Mamoswine",
-    "image": "https://cdn.recast.ai/blog/pokebot/473.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/473.png",
     "evolutions": [
       {
         "id": 220,
@@ -13400,7 +13400,7 @@
       "normal"
     ],
     "name": "Porygon-z",
-    "image": "https://cdn.recast.ai/blog/pokebot/474.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/474.png",
     "evolutions": [
       {
         "id": 137,
@@ -13431,7 +13431,7 @@
       "fighting"
     ],
     "name": "Gallade",
-    "image": "https://cdn.recast.ai/blog/pokebot/475.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/475.png",
     "evolutions": [
       {
         "id": 280,
@@ -13471,7 +13471,7 @@
       "steel"
     ],
     "name": "Probopass",
-    "image": "https://cdn.recast.ai/blog/pokebot/476.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/476.png",
     "evolutions": [
       {
         "id": 299,
@@ -13495,7 +13495,7 @@
       "ghost"
     ],
     "name": "Dusknoir",
-    "image": "https://cdn.recast.ai/blog/pokebot/477.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/477.png",
     "evolutions": [
       {
         "id": 355,
@@ -13527,7 +13527,7 @@
       "ghost"
     ],
     "name": "Froslass",
-    "image": "https://cdn.recast.ai/blog/pokebot/478.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/478.png",
     "evolutions": [
       {
         "id": 361,
@@ -13560,7 +13560,7 @@
       "ghost"
     ],
     "name": "Rotom",
-    "image": "https://cdn.recast.ai/blog/pokebot/479.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/479.png",
     "evolutions": [
       {
         "id": 479,
@@ -13578,7 +13578,7 @@
       "psychic"
     ],
     "name": "Uxie",
-    "image": "https://cdn.recast.ai/blog/pokebot/480.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/480.png",
     "evolutions": [
       {
         "id": 480,
@@ -13596,7 +13596,7 @@
       "psychic"
     ],
     "name": "Mesprit",
-    "image": "https://cdn.recast.ai/blog/pokebot/481.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/481.png",
     "evolutions": [
       {
         "id": 481,
@@ -13614,7 +13614,7 @@
       "psychic"
     ],
     "name": "Azelf",
-    "image": "https://cdn.recast.ai/blog/pokebot/482.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/482.png",
     "evolutions": [
       {
         "id": 482,
@@ -13633,7 +13633,7 @@
       "dragon"
     ],
     "name": "Dialga",
-    "image": "https://cdn.recast.ai/blog/pokebot/483.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/483.png",
     "evolutions": [
       {
         "id": 483,
@@ -13652,7 +13652,7 @@
       "dragon"
     ],
     "name": "Palkia",
-    "image": "https://cdn.recast.ai/blog/pokebot/484.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/484.png",
     "evolutions": [
       {
         "id": 484,
@@ -13671,7 +13671,7 @@
       "steel"
     ],
     "name": "Heatran",
-    "image": "https://cdn.recast.ai/blog/pokebot/485.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/485.png",
     "evolutions": [
       {
         "id": 485,
@@ -13689,7 +13689,7 @@
       "normal"
     ],
     "name": "Regigigas",
-    "image": "https://cdn.recast.ai/blog/pokebot/486.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/486.png",
     "evolutions": [
       {
         "id": 486,
@@ -13708,7 +13708,7 @@
       "dragon"
     ],
     "name": "Giratina-altered",
-    "image": "https://cdn.recast.ai/blog/pokebot/487.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/487.png",
     "evolutions": [
       {
         "id": 487,
@@ -13726,7 +13726,7 @@
       "psychic"
     ],
     "name": "Cresselia",
-    "image": "https://cdn.recast.ai/blog/pokebot/488.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/488.png",
     "evolutions": [
       {
         "id": 488,
@@ -13744,7 +13744,7 @@
       "water"
     ],
     "name": "Phione",
-    "image": "https://cdn.recast.ai/blog/pokebot/489.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/489.png",
     "evolutions": [
       {
         "id": 489,
@@ -13766,7 +13766,7 @@
       "water"
     ],
     "name": "Manaphy",
-    "image": "https://cdn.recast.ai/blog/pokebot/490.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/490.png",
     "evolutions": [
       {
         "id": 489,
@@ -13788,7 +13788,7 @@
       "dark"
     ],
     "name": "Darkrai",
-    "image": "https://cdn.recast.ai/blog/pokebot/491.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/491.png",
     "evolutions": [
       {
         "id": 491,
@@ -13806,7 +13806,7 @@
       "grass"
     ],
     "name": "Shaymin-land",
-    "image": "https://cdn.recast.ai/blog/pokebot/492.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/492.png",
     "evolutions": [
       {
         "id": 492,
@@ -13824,7 +13824,7 @@
       "normal"
     ],
     "name": "Arceus",
-    "image": "https://cdn.recast.ai/blog/pokebot/493.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/493.png",
     "evolutions": [
       {
         "id": 493,
@@ -13843,7 +13843,7 @@
       "fire"
     ],
     "name": "Victini",
-    "image": "https://cdn.recast.ai/blog/pokebot/494.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/494.png",
     "evolutions": [
       {
         "id": 494,
@@ -13861,7 +13861,7 @@
       "grass"
     ],
     "name": "Snivy",
-    "image": "https://cdn.recast.ai/blog/pokebot/495.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/495.png",
     "evolutions": [
       {
         "id": 495,
@@ -13893,7 +13893,7 @@
       "grass"
     ],
     "name": "Servine",
-    "image": "https://cdn.recast.ai/blog/pokebot/496.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/496.png",
     "evolutions": [
       {
         "id": 495,
@@ -13925,7 +13925,7 @@
       "grass"
     ],
     "name": "Serperior",
-    "image": "https://cdn.recast.ai/blog/pokebot/497.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/497.png",
     "evolutions": [
       {
         "id": 495,
@@ -13957,7 +13957,7 @@
       "fire"
     ],
     "name": "Tepig",
-    "image": "https://cdn.recast.ai/blog/pokebot/498.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/498.png",
     "evolutions": [
       {
         "id": 498,
@@ -13990,7 +13990,7 @@
       "fighting"
     ],
     "name": "Pignite",
-    "image": "https://cdn.recast.ai/blog/pokebot/499.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/499.png",
     "evolutions": [
       {
         "id": 498,
@@ -14023,7 +14023,7 @@
       "fighting"
     ],
     "name": "Emboar",
-    "image": "https://cdn.recast.ai/blog/pokebot/500.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/500.png",
     "evolutions": [
       {
         "id": 498,
@@ -14055,7 +14055,7 @@
       "water"
     ],
     "name": "Oshawott",
-    "image": "https://cdn.recast.ai/blog/pokebot/501.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/501.png",
     "evolutions": [
       {
         "id": 501,
@@ -14087,7 +14087,7 @@
       "water"
     ],
     "name": "Dewott",
-    "image": "https://cdn.recast.ai/blog/pokebot/502.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/502.png",
     "evolutions": [
       {
         "id": 501,
@@ -14119,7 +14119,7 @@
       "water"
     ],
     "name": "Samurott",
-    "image": "https://cdn.recast.ai/blog/pokebot/503.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/503.png",
     "evolutions": [
       {
         "id": 501,
@@ -14151,7 +14151,7 @@
       "normal"
     ],
     "name": "Patrat",
-    "image": "https://cdn.recast.ai/blog/pokebot/504.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/504.png",
     "evolutions": [
       {
         "id": 504,
@@ -14176,7 +14176,7 @@
       "normal"
     ],
     "name": "Watchog",
-    "image": "https://cdn.recast.ai/blog/pokebot/505.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/505.png",
     "evolutions": [
       {
         "id": 504,
@@ -14201,7 +14201,7 @@
       "normal"
     ],
     "name": "Lillipup",
-    "image": "https://cdn.recast.ai/blog/pokebot/506.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/506.png",
     "evolutions": [
       {
         "id": 506,
@@ -14233,7 +14233,7 @@
       "normal"
     ],
     "name": "Herdier",
-    "image": "https://cdn.recast.ai/blog/pokebot/507.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/507.png",
     "evolutions": [
       {
         "id": 506,
@@ -14265,7 +14265,7 @@
       "normal"
     ],
     "name": "Stoutland",
-    "image": "https://cdn.recast.ai/blog/pokebot/508.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/508.png",
     "evolutions": [
       {
         "id": 506,
@@ -14297,7 +14297,7 @@
       "dark"
     ],
     "name": "Purrloin",
-    "image": "https://cdn.recast.ai/blog/pokebot/509.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/509.png",
     "evolutions": [
       {
         "id": 509,
@@ -14322,7 +14322,7 @@
       "dark"
     ],
     "name": "Liepard",
-    "image": "https://cdn.recast.ai/blog/pokebot/510.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/510.png",
     "evolutions": [
       {
         "id": 509,
@@ -14347,7 +14347,7 @@
       "grass"
     ],
     "name": "Pansage",
-    "image": "https://cdn.recast.ai/blog/pokebot/511.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/511.png",
     "evolutions": [
       {
         "id": 511,
@@ -14372,7 +14372,7 @@
       "grass"
     ],
     "name": "Simisage",
-    "image": "https://cdn.recast.ai/blog/pokebot/512.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/512.png",
     "evolutions": [
       {
         "id": 511,
@@ -14397,7 +14397,7 @@
       "fire"
     ],
     "name": "Pansear",
-    "image": "https://cdn.recast.ai/blog/pokebot/513.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/513.png",
     "evolutions": [
       {
         "id": 513,
@@ -14422,7 +14422,7 @@
       "fire"
     ],
     "name": "Simisear",
-    "image": "https://cdn.recast.ai/blog/pokebot/514.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/514.png",
     "evolutions": [
       {
         "id": 513,
@@ -14447,7 +14447,7 @@
       "water"
     ],
     "name": "Panpour",
-    "image": "https://cdn.recast.ai/blog/pokebot/515.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/515.png",
     "evolutions": [
       {
         "id": 515,
@@ -14472,7 +14472,7 @@
       "water"
     ],
     "name": "Simipour",
-    "image": "https://cdn.recast.ai/blog/pokebot/516.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/516.png",
     "evolutions": [
       {
         "id": 515,
@@ -14497,7 +14497,7 @@
       "psychic"
     ],
     "name": "Munna",
-    "image": "https://cdn.recast.ai/blog/pokebot/517.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/517.png",
     "evolutions": [
       {
         "id": 517,
@@ -14522,7 +14522,7 @@
       "psychic"
     ],
     "name": "Musharna",
-    "image": "https://cdn.recast.ai/blog/pokebot/518.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/518.png",
     "evolutions": [
       {
         "id": 517,
@@ -14548,7 +14548,7 @@
       "flying"
     ],
     "name": "Pidove",
-    "image": "https://cdn.recast.ai/blog/pokebot/519.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/519.png",
     "evolutions": [
       {
         "id": 519,
@@ -14581,7 +14581,7 @@
       "flying"
     ],
     "name": "Tranquill",
-    "image": "https://cdn.recast.ai/blog/pokebot/520.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/520.png",
     "evolutions": [
       {
         "id": 519,
@@ -14614,7 +14614,7 @@
       "flying"
     ],
     "name": "Unfezant",
-    "image": "https://cdn.recast.ai/blog/pokebot/521.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/521.png",
     "evolutions": [
       {
         "id": 519,
@@ -14646,7 +14646,7 @@
       "electric"
     ],
     "name": "Blitzle",
-    "image": "https://cdn.recast.ai/blog/pokebot/522.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/522.png",
     "evolutions": [
       {
         "id": 522,
@@ -14671,7 +14671,7 @@
       "electric"
     ],
     "name": "Zebstrika",
-    "image": "https://cdn.recast.ai/blog/pokebot/523.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/523.png",
     "evolutions": [
       {
         "id": 522,
@@ -14696,7 +14696,7 @@
       "rock"
     ],
     "name": "Roggenrola",
-    "image": "https://cdn.recast.ai/blog/pokebot/524.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/524.png",
     "evolutions": [
       {
         "id": 524,
@@ -14727,7 +14727,7 @@
       "rock"
     ],
     "name": "Boldore",
-    "image": "https://cdn.recast.ai/blog/pokebot/525.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/525.png",
     "evolutions": [
       {
         "id": 524,
@@ -14758,7 +14758,7 @@
       "rock"
     ],
     "name": "Gigalith",
-    "image": "https://cdn.recast.ai/blog/pokebot/526.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/526.png",
     "evolutions": [
       {
         "id": 524,
@@ -14790,7 +14790,7 @@
       "flying"
     ],
     "name": "Woobat",
-    "image": "https://cdn.recast.ai/blog/pokebot/527.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/527.png",
     "evolutions": [
       {
         "id": 527,
@@ -14815,7 +14815,7 @@
       "flying"
     ],
     "name": "Swoobat",
-    "image": "https://cdn.recast.ai/blog/pokebot/528.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/528.png",
     "evolutions": [
       {
         "id": 527,
@@ -14839,7 +14839,7 @@
       "ground"
     ],
     "name": "Drilbur",
-    "image": "https://cdn.recast.ai/blog/pokebot/529.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/529.png",
     "evolutions": [
       {
         "id": 529,
@@ -14865,7 +14865,7 @@
       "steel"
     ],
     "name": "Excadrill",
-    "image": "https://cdn.recast.ai/blog/pokebot/530.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/530.png",
     "evolutions": [
       {
         "id": 529,
@@ -14890,7 +14890,7 @@
       "normal"
     ],
     "name": "Audino",
-    "image": "https://cdn.recast.ai/blog/pokebot/531.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/531.png",
     "evolutions": [
       {
         "id": 531,
@@ -14908,7 +14908,7 @@
       "fighting"
     ],
     "name": "Timburr",
-    "image": "https://cdn.recast.ai/blog/pokebot/532.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/532.png",
     "evolutions": [
       {
         "id": 532,
@@ -14939,7 +14939,7 @@
       "fighting"
     ],
     "name": "Gurdurr",
-    "image": "https://cdn.recast.ai/blog/pokebot/533.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/533.png",
     "evolutions": [
       {
         "id": 532,
@@ -14970,7 +14970,7 @@
       "fighting"
     ],
     "name": "Conkeldurr",
-    "image": "https://cdn.recast.ai/blog/pokebot/534.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/534.png",
     "evolutions": [
       {
         "id": 532,
@@ -15001,7 +15001,7 @@
       "water"
     ],
     "name": "Tympole",
-    "image": "https://cdn.recast.ai/blog/pokebot/535.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/535.png",
     "evolutions": [
       {
         "id": 535,
@@ -15034,7 +15034,7 @@
       "ground"
     ],
     "name": "Palpitoad",
-    "image": "https://cdn.recast.ai/blog/pokebot/536.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/536.png",
     "evolutions": [
       {
         "id": 535,
@@ -15067,7 +15067,7 @@
       "ground"
     ],
     "name": "Seismitoad",
-    "image": "https://cdn.recast.ai/blog/pokebot/537.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/537.png",
     "evolutions": [
       {
         "id": 535,
@@ -15099,7 +15099,7 @@
       "fighting"
     ],
     "name": "Throh",
-    "image": "https://cdn.recast.ai/blog/pokebot/538.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/538.png",
     "evolutions": [
       {
         "id": 538,
@@ -15117,7 +15117,7 @@
       "fighting"
     ],
     "name": "Sawk",
-    "image": "https://cdn.recast.ai/blog/pokebot/539.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/539.png",
     "evolutions": [
       {
         "id": 539,
@@ -15136,7 +15136,7 @@
       "grass"
     ],
     "name": "Sewaddle",
-    "image": "https://cdn.recast.ai/blog/pokebot/540.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/540.png",
     "evolutions": [
       {
         "id": 540,
@@ -15168,7 +15168,7 @@
       "grass"
     ],
     "name": "Swadloon",
-    "image": "https://cdn.recast.ai/blog/pokebot/541.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/541.png",
     "evolutions": [
       {
         "id": 540,
@@ -15200,7 +15200,7 @@
       "grass"
     ],
     "name": "Leavanny",
-    "image": "https://cdn.recast.ai/blog/pokebot/542.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/542.png",
     "evolutions": [
       {
         "id": 540,
@@ -15232,7 +15232,7 @@
       "poison"
     ],
     "name": "Venipede",
-    "image": "https://cdn.recast.ai/blog/pokebot/543.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/543.png",
     "evolutions": [
       {
         "id": 543,
@@ -15265,7 +15265,7 @@
       "poison"
     ],
     "name": "Whirlipede",
-    "image": "https://cdn.recast.ai/blog/pokebot/544.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/544.png",
     "evolutions": [
       {
         "id": 543,
@@ -15298,7 +15298,7 @@
       "poison"
     ],
     "name": "Scolipede",
-    "image": "https://cdn.recast.ai/blog/pokebot/545.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/545.png",
     "evolutions": [
       {
         "id": 543,
@@ -15331,7 +15331,7 @@
       "fairy"
     ],
     "name": "Cottonee",
-    "image": "https://cdn.recast.ai/blog/pokebot/546.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/546.png",
     "evolutions": [
       {
         "id": 546,
@@ -15357,7 +15357,7 @@
       "fairy"
     ],
     "name": "Whimsicott",
-    "image": "https://cdn.recast.ai/blog/pokebot/547.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/547.png",
     "evolutions": [
       {
         "id": 546,
@@ -15382,7 +15382,7 @@
       "grass"
     ],
     "name": "Petilil",
-    "image": "https://cdn.recast.ai/blog/pokebot/548.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/548.png",
     "evolutions": [
       {
         "id": 548,
@@ -15407,7 +15407,7 @@
       "grass"
     ],
     "name": "Lilligant",
-    "image": "https://cdn.recast.ai/blog/pokebot/549.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/549.png",
     "evolutions": [
       {
         "id": 548,
@@ -15432,7 +15432,7 @@
       "water"
     ],
     "name": "Basculin-red-striped",
-    "image": "https://cdn.recast.ai/blog/pokebot/550.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/550.png",
     "evolutions": [
       {
         "id": 550,
@@ -15451,7 +15451,7 @@
       "dark"
     ],
     "name": "Sandile",
-    "image": "https://cdn.recast.ai/blog/pokebot/551.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/551.png",
     "evolutions": [
       {
         "id": 551,
@@ -15484,7 +15484,7 @@
       "dark"
     ],
     "name": "Krokorok",
-    "image": "https://cdn.recast.ai/blog/pokebot/552.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/552.png",
     "evolutions": [
       {
         "id": 551,
@@ -15517,7 +15517,7 @@
       "dark"
     ],
     "name": "Krookodile",
-    "image": "https://cdn.recast.ai/blog/pokebot/553.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/553.png",
     "evolutions": [
       {
         "id": 551,
@@ -15549,7 +15549,7 @@
       "fire"
     ],
     "name": "Darumaka",
-    "image": "https://cdn.recast.ai/blog/pokebot/554.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/554.png",
     "evolutions": [
       {
         "id": 554,
@@ -15574,7 +15574,7 @@
       "fire"
     ],
     "name": "Darmanitan-standard",
-    "image": "https://cdn.recast.ai/blog/pokebot/555.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/555.png",
     "evolutions": [
       {
         "id": 554,
@@ -15599,7 +15599,7 @@
       "grass"
     ],
     "name": "Maractus",
-    "image": "https://cdn.recast.ai/blog/pokebot/556.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/556.png",
     "evolutions": [
       {
         "id": 556,
@@ -15618,7 +15618,7 @@
       "rock"
     ],
     "name": "Dwebble",
-    "image": "https://cdn.recast.ai/blog/pokebot/557.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/557.png",
     "evolutions": [
       {
         "id": 557,
@@ -15644,7 +15644,7 @@
       "rock"
     ],
     "name": "Crustle",
-    "image": "https://cdn.recast.ai/blog/pokebot/558.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/558.png",
     "evolutions": [
       {
         "id": 557,
@@ -15670,7 +15670,7 @@
       "fighting"
     ],
     "name": "Scraggy",
-    "image": "https://cdn.recast.ai/blog/pokebot/559.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/559.png",
     "evolutions": [
       {
         "id": 559,
@@ -15696,7 +15696,7 @@
       "fighting"
     ],
     "name": "Scrafty",
-    "image": "https://cdn.recast.ai/blog/pokebot/560.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/560.png",
     "evolutions": [
       {
         "id": 559,
@@ -15722,7 +15722,7 @@
       "flying"
     ],
     "name": "Sigilyph",
-    "image": "https://cdn.recast.ai/blog/pokebot/561.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/561.png",
     "evolutions": [
       {
         "id": 561,
@@ -15740,7 +15740,7 @@
       "ghost"
     ],
     "name": "Yamask",
-    "image": "https://cdn.recast.ai/blog/pokebot/562.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/562.png",
     "evolutions": [
       {
         "id": 562,
@@ -15765,7 +15765,7 @@
       "ghost"
     ],
     "name": "Cofagrigus",
-    "image": "https://cdn.recast.ai/blog/pokebot/563.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/563.png",
     "evolutions": [
       {
         "id": 562,
@@ -15791,7 +15791,7 @@
       "rock"
     ],
     "name": "Tirtouga",
-    "image": "https://cdn.recast.ai/blog/pokebot/564.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/564.png",
     "evolutions": [
       {
         "id": 564,
@@ -15817,7 +15817,7 @@
       "rock"
     ],
     "name": "Carracosta",
-    "image": "https://cdn.recast.ai/blog/pokebot/565.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/565.png",
     "evolutions": [
       {
         "id": 564,
@@ -15843,7 +15843,7 @@
       "flying"
     ],
     "name": "Archen",
-    "image": "https://cdn.recast.ai/blog/pokebot/566.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/566.png",
     "evolutions": [
       {
         "id": 566,
@@ -15869,7 +15869,7 @@
       "flying"
     ],
     "name": "Archeops",
-    "image": "https://cdn.recast.ai/blog/pokebot/567.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/567.png",
     "evolutions": [
       {
         "id": 566,
@@ -15894,7 +15894,7 @@
       "poison"
     ],
     "name": "Trubbish",
-    "image": "https://cdn.recast.ai/blog/pokebot/568.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/568.png",
     "evolutions": [
       {
         "id": 568,
@@ -15919,7 +15919,7 @@
       "poison"
     ],
     "name": "Garbodor",
-    "image": "https://cdn.recast.ai/blog/pokebot/569.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/569.png",
     "evolutions": [
       {
         "id": 568,
@@ -15944,7 +15944,7 @@
       "dark"
     ],
     "name": "Zorua",
-    "image": "https://cdn.recast.ai/blog/pokebot/570.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/570.png",
     "evolutions": [
       {
         "id": 570,
@@ -15969,7 +15969,7 @@
       "dark"
     ],
     "name": "Zoroark",
-    "image": "https://cdn.recast.ai/blog/pokebot/571.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/571.png",
     "evolutions": [
       {
         "id": 570,
@@ -15994,7 +15994,7 @@
       "normal"
     ],
     "name": "Minccino",
-    "image": "https://cdn.recast.ai/blog/pokebot/572.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/572.png",
     "evolutions": [
       {
         "id": 572,
@@ -16019,7 +16019,7 @@
       "normal"
     ],
     "name": "Cinccino",
-    "image": "https://cdn.recast.ai/blog/pokebot/573.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/573.png",
     "evolutions": [
       {
         "id": 572,
@@ -16044,7 +16044,7 @@
       "psychic"
     ],
     "name": "Gothita",
-    "image": "https://cdn.recast.ai/blog/pokebot/574.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/574.png",
     "evolutions": [
       {
         "id": 574,
@@ -16076,7 +16076,7 @@
       "psychic"
     ],
     "name": "Gothorita",
-    "image": "https://cdn.recast.ai/blog/pokebot/575.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/575.png",
     "evolutions": [
       {
         "id": 574,
@@ -16108,7 +16108,7 @@
       "psychic"
     ],
     "name": "Gothitelle",
-    "image": "https://cdn.recast.ai/blog/pokebot/576.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/576.png",
     "evolutions": [
       {
         "id": 574,
@@ -16140,7 +16140,7 @@
       "psychic"
     ],
     "name": "Solosis",
-    "image": "https://cdn.recast.ai/blog/pokebot/577.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/577.png",
     "evolutions": [
       {
         "id": 577,
@@ -16172,7 +16172,7 @@
       "psychic"
     ],
     "name": "Duosion",
-    "image": "https://cdn.recast.ai/blog/pokebot/578.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/578.png",
     "evolutions": [
       {
         "id": 577,
@@ -16204,7 +16204,7 @@
       "psychic"
     ],
     "name": "Reuniclus",
-    "image": "https://cdn.recast.ai/blog/pokebot/579.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/579.png",
     "evolutions": [
       {
         "id": 577,
@@ -16237,7 +16237,7 @@
       "flying"
     ],
     "name": "Ducklett",
-    "image": "https://cdn.recast.ai/blog/pokebot/580.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/580.png",
     "evolutions": [
       {
         "id": 580,
@@ -16263,7 +16263,7 @@
       "flying"
     ],
     "name": "Swanna",
-    "image": "https://cdn.recast.ai/blog/pokebot/581.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/581.png",
     "evolutions": [
       {
         "id": 580,
@@ -16288,7 +16288,7 @@
       "ice"
     ],
     "name": "Vanillite",
-    "image": "https://cdn.recast.ai/blog/pokebot/582.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/582.png",
     "evolutions": [
       {
         "id": 582,
@@ -16320,7 +16320,7 @@
       "ice"
     ],
     "name": "Vanillish",
-    "image": "https://cdn.recast.ai/blog/pokebot/583.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/583.png",
     "evolutions": [
       {
         "id": 582,
@@ -16352,7 +16352,7 @@
       "ice"
     ],
     "name": "Vanilluxe",
-    "image": "https://cdn.recast.ai/blog/pokebot/584.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/584.png",
     "evolutions": [
       {
         "id": 582,
@@ -16385,7 +16385,7 @@
       "grass"
     ],
     "name": "Deerling",
-    "image": "https://cdn.recast.ai/blog/pokebot/585.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/585.png",
     "evolutions": [
       {
         "id": 585,
@@ -16411,7 +16411,7 @@
       "grass"
     ],
     "name": "Sawsbuck",
-    "image": "https://cdn.recast.ai/blog/pokebot/586.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/586.png",
     "evolutions": [
       {
         "id": 585,
@@ -16437,7 +16437,7 @@
       "flying"
     ],
     "name": "Emolga",
-    "image": "https://cdn.recast.ai/blog/pokebot/587.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/587.png",
     "evolutions": [
       {
         "id": 587,
@@ -16455,7 +16455,7 @@
       "bug"
     ],
     "name": "Karrablast",
-    "image": "https://cdn.recast.ai/blog/pokebot/588.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/588.png",
     "evolutions": [
       {
         "id": 588,
@@ -16480,7 +16480,7 @@
       "steel"
     ],
     "name": "Escavalier",
-    "image": "https://cdn.recast.ai/blog/pokebot/589.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/589.png",
     "evolutions": [
       {
         "id": 588,
@@ -16505,7 +16505,7 @@
       "poison"
     ],
     "name": "Foongus",
-    "image": "https://cdn.recast.ai/blog/pokebot/590.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/590.png",
     "evolutions": [
       {
         "id": 590,
@@ -16531,7 +16531,7 @@
       "poison"
     ],
     "name": "Amoonguss",
-    "image": "https://cdn.recast.ai/blog/pokebot/591.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/591.png",
     "evolutions": [
       {
         "id": 590,
@@ -16557,7 +16557,7 @@
       "ghost"
     ],
     "name": "Frillish",
-    "image": "https://cdn.recast.ai/blog/pokebot/592.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/592.png",
     "evolutions": [
       {
         "id": 592,
@@ -16583,7 +16583,7 @@
       "ghost"
     ],
     "name": "Jellicent",
-    "image": "https://cdn.recast.ai/blog/pokebot/593.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/593.png",
     "evolutions": [
       {
         "id": 592,
@@ -16608,7 +16608,7 @@
       "water"
     ],
     "name": "Alomomola",
-    "image": "https://cdn.recast.ai/blog/pokebot/594.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/594.png",
     "evolutions": [
       {
         "id": 594,
@@ -16627,7 +16627,7 @@
       "electric"
     ],
     "name": "Joltik",
-    "image": "https://cdn.recast.ai/blog/pokebot/595.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/595.png",
     "evolutions": [
       {
         "id": 595,
@@ -16653,7 +16653,7 @@
       "electric"
     ],
     "name": "Galvantula",
-    "image": "https://cdn.recast.ai/blog/pokebot/596.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/596.png",
     "evolutions": [
       {
         "id": 595,
@@ -16679,7 +16679,7 @@
       "steel"
     ],
     "name": "Ferroseed",
-    "image": "https://cdn.recast.ai/blog/pokebot/597.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/597.png",
     "evolutions": [
       {
         "id": 597,
@@ -16705,7 +16705,7 @@
       "steel"
     ],
     "name": "Ferrothorn",
-    "image": "https://cdn.recast.ai/blog/pokebot/598.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/598.png",
     "evolutions": [
       {
         "id": 597,
@@ -16730,7 +16730,7 @@
       "steel"
     ],
     "name": "Klink",
-    "image": "https://cdn.recast.ai/blog/pokebot/599.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/599.png",
     "evolutions": [
       {
         "id": 599,
@@ -16762,7 +16762,7 @@
       "steel"
     ],
     "name": "Klang",
-    "image": "https://cdn.recast.ai/blog/pokebot/600.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/600.png",
     "evolutions": [
       {
         "id": 599,
@@ -16794,7 +16794,7 @@
       "steel"
     ],
     "name": "Klinklang",
-    "image": "https://cdn.recast.ai/blog/pokebot/601.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/601.png",
     "evolutions": [
       {
         "id": 599,
@@ -16826,7 +16826,7 @@
       "electric"
     ],
     "name": "Tynamo",
-    "image": "https://cdn.recast.ai/blog/pokebot/602.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/602.png",
     "evolutions": [
       {
         "id": 602,
@@ -16858,7 +16858,7 @@
       "electric"
     ],
     "name": "Eelektrik",
-    "image": "https://cdn.recast.ai/blog/pokebot/603.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/603.png",
     "evolutions": [
       {
         "id": 602,
@@ -16890,7 +16890,7 @@
       "electric"
     ],
     "name": "Eelektross",
-    "image": "https://cdn.recast.ai/blog/pokebot/604.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/604.png",
     "evolutions": [
       {
         "id": 602,
@@ -16922,7 +16922,7 @@
       "psychic"
     ],
     "name": "Elgyem",
-    "image": "https://cdn.recast.ai/blog/pokebot/605.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/605.png",
     "evolutions": [
       {
         "id": 605,
@@ -16947,7 +16947,7 @@
       "psychic"
     ],
     "name": "Beheeyem",
-    "image": "https://cdn.recast.ai/blog/pokebot/606.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/606.png",
     "evolutions": [
       {
         "id": 605,
@@ -16973,7 +16973,7 @@
       "fire"
     ],
     "name": "Litwick",
-    "image": "https://cdn.recast.ai/blog/pokebot/607.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/607.png",
     "evolutions": [
       {
         "id": 607,
@@ -17006,7 +17006,7 @@
       "fire"
     ],
     "name": "Lampent",
-    "image": "https://cdn.recast.ai/blog/pokebot/608.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/608.png",
     "evolutions": [
       {
         "id": 607,
@@ -17039,7 +17039,7 @@
       "fire"
     ],
     "name": "Chandelure",
-    "image": "https://cdn.recast.ai/blog/pokebot/609.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/609.png",
     "evolutions": [
       {
         "id": 607,
@@ -17071,7 +17071,7 @@
       "dragon"
     ],
     "name": "Axew",
-    "image": "https://cdn.recast.ai/blog/pokebot/610.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/610.png",
     "evolutions": [
       {
         "id": 610,
@@ -17103,7 +17103,7 @@
       "dragon"
     ],
     "name": "Fraxure",
-    "image": "https://cdn.recast.ai/blog/pokebot/611.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/611.png",
     "evolutions": [
       {
         "id": 610,
@@ -17135,7 +17135,7 @@
       "dragon"
     ],
     "name": "Haxorus",
-    "image": "https://cdn.recast.ai/blog/pokebot/612.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/612.png",
     "evolutions": [
       {
         "id": 610,
@@ -17167,7 +17167,7 @@
       "ice"
     ],
     "name": "Cubchoo",
-    "image": "https://cdn.recast.ai/blog/pokebot/613.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/613.png",
     "evolutions": [
       {
         "id": 613,
@@ -17192,7 +17192,7 @@
       "ice"
     ],
     "name": "Beartic",
-    "image": "https://cdn.recast.ai/blog/pokebot/614.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/614.png",
     "evolutions": [
       {
         "id": 613,
@@ -17217,7 +17217,7 @@
       "ice"
     ],
     "name": "Cryogonal",
-    "image": "https://cdn.recast.ai/blog/pokebot/615.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/615.png",
     "evolutions": [
       {
         "id": 615,
@@ -17235,7 +17235,7 @@
       "bug"
     ],
     "name": "Shelmet",
-    "image": "https://cdn.recast.ai/blog/pokebot/616.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/616.png",
     "evolutions": [
       {
         "id": 616,
@@ -17259,7 +17259,7 @@
       "bug"
     ],
     "name": "Accelgor",
-    "image": "https://cdn.recast.ai/blog/pokebot/617.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/617.png",
     "evolutions": [
       {
         "id": 616,
@@ -17284,7 +17284,7 @@
       "electric"
     ],
     "name": "Stunfisk",
-    "image": "https://cdn.recast.ai/blog/pokebot/618.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/618.png",
     "evolutions": [
       {
         "id": 618,
@@ -17302,7 +17302,7 @@
       "fighting"
     ],
     "name": "Mienfoo",
-    "image": "https://cdn.recast.ai/blog/pokebot/619.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/619.png",
     "evolutions": [
       {
         "id": 619,
@@ -17327,7 +17327,7 @@
       "fighting"
     ],
     "name": "Mienshao",
-    "image": "https://cdn.recast.ai/blog/pokebot/620.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/620.png",
     "evolutions": [
       {
         "id": 619,
@@ -17352,7 +17352,7 @@
       "dragon"
     ],
     "name": "Druddigon",
-    "image": "https://cdn.recast.ai/blog/pokebot/621.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/621.png",
     "evolutions": [
       {
         "id": 621,
@@ -17371,7 +17371,7 @@
       "ghost"
     ],
     "name": "Golett",
-    "image": "https://cdn.recast.ai/blog/pokebot/622.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/622.png",
     "evolutions": [
       {
         "id": 622,
@@ -17397,7 +17397,7 @@
       "ghost"
     ],
     "name": "Golurk",
-    "image": "https://cdn.recast.ai/blog/pokebot/623.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/623.png",
     "evolutions": [
       {
         "id": 622,
@@ -17423,7 +17423,7 @@
       "steel"
     ],
     "name": "Pawniard",
-    "image": "https://cdn.recast.ai/blog/pokebot/624.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/624.png",
     "evolutions": [
       {
         "id": 624,
@@ -17449,7 +17449,7 @@
       "steel"
     ],
     "name": "Bisharp",
-    "image": "https://cdn.recast.ai/blog/pokebot/625.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/625.png",
     "evolutions": [
       {
         "id": 624,
@@ -17474,7 +17474,7 @@
       "normal"
     ],
     "name": "Bouffalant",
-    "image": "https://cdn.recast.ai/blog/pokebot/626.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/626.png",
     "evolutions": [
       {
         "id": 626,
@@ -17493,7 +17493,7 @@
       "flying"
     ],
     "name": "Rufflet",
-    "image": "https://cdn.recast.ai/blog/pokebot/627.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/627.png",
     "evolutions": [
       {
         "id": 627,
@@ -17519,7 +17519,7 @@
       "flying"
     ],
     "name": "Braviary",
-    "image": "https://cdn.recast.ai/blog/pokebot/628.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/628.png",
     "evolutions": [
       {
         "id": 627,
@@ -17545,7 +17545,7 @@
       "flying"
     ],
     "name": "Vullaby",
-    "image": "https://cdn.recast.ai/blog/pokebot/629.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/629.png",
     "evolutions": [
       {
         "id": 629,
@@ -17571,7 +17571,7 @@
       "flying"
     ],
     "name": "Mandibuzz",
-    "image": "https://cdn.recast.ai/blog/pokebot/630.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/630.png",
     "evolutions": [
       {
         "id": 629,
@@ -17596,7 +17596,7 @@
       "fire"
     ],
     "name": "Heatmor",
-    "image": "https://cdn.recast.ai/blog/pokebot/631.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/631.png",
     "evolutions": [
       {
         "id": 631,
@@ -17615,7 +17615,7 @@
       "steel"
     ],
     "name": "Durant",
-    "image": "https://cdn.recast.ai/blog/pokebot/632.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/632.png",
     "evolutions": [
       {
         "id": 632,
@@ -17634,7 +17634,7 @@
       "dragon"
     ],
     "name": "Deino",
-    "image": "https://cdn.recast.ai/blog/pokebot/633.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/633.png",
     "evolutions": [
       {
         "id": 633,
@@ -17667,7 +17667,7 @@
       "dragon"
     ],
     "name": "Zweilous",
-    "image": "https://cdn.recast.ai/blog/pokebot/634.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/634.png",
     "evolutions": [
       {
         "id": 633,
@@ -17700,7 +17700,7 @@
       "dragon"
     ],
     "name": "Hydreigon",
-    "image": "https://cdn.recast.ai/blog/pokebot/635.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/635.png",
     "evolutions": [
       {
         "id": 633,
@@ -17733,7 +17733,7 @@
       "fire"
     ],
     "name": "Larvesta",
-    "image": "https://cdn.recast.ai/blog/pokebot/636.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/636.png",
     "evolutions": [
       {
         "id": 636,
@@ -17759,7 +17759,7 @@
       "fire"
     ],
     "name": "Volcarona",
-    "image": "https://cdn.recast.ai/blog/pokebot/637.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/637.png",
     "evolutions": [
       {
         "id": 636,
@@ -17785,7 +17785,7 @@
       "fighting"
     ],
     "name": "Cobalion",
-    "image": "https://cdn.recast.ai/blog/pokebot/638.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/638.png",
     "evolutions": [
       {
         "id": 638,
@@ -17804,7 +17804,7 @@
       "fighting"
     ],
     "name": "Terrakion",
-    "image": "https://cdn.recast.ai/blog/pokebot/639.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/639.png",
     "evolutions": [
       {
         "id": 639,
@@ -17823,7 +17823,7 @@
       "fighting"
     ],
     "name": "Virizion",
-    "image": "https://cdn.recast.ai/blog/pokebot/640.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/640.png",
     "evolutions": [
       {
         "id": 640,
@@ -17841,7 +17841,7 @@
       "flying"
     ],
     "name": "Tornadus-incarnate",
-    "image": "https://cdn.recast.ai/blog/pokebot/641.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/641.png",
     "evolutions": [
       {
         "id": 641,
@@ -17860,7 +17860,7 @@
       "flying"
     ],
     "name": "Thundurus-incarnate",
-    "image": "https://cdn.recast.ai/blog/pokebot/642.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/642.png",
     "evolutions": [
       {
         "id": 642,
@@ -17879,7 +17879,7 @@
       "fire"
     ],
     "name": "Reshiram",
-    "image": "https://cdn.recast.ai/blog/pokebot/643.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/643.png",
     "evolutions": [
       {
         "id": 643,
@@ -17898,7 +17898,7 @@
       "electric"
     ],
     "name": "Zekrom",
-    "image": "https://cdn.recast.ai/blog/pokebot/644.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/644.png",
     "evolutions": [
       {
         "id": 644,
@@ -17917,7 +17917,7 @@
       "flying"
     ],
     "name": "Landorus-incarnate",
-    "image": "https://cdn.recast.ai/blog/pokebot/645.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/645.png",
     "evolutions": [
       {
         "id": 645,
@@ -17936,7 +17936,7 @@
       "ice"
     ],
     "name": "Kyurem",
-    "image": "https://cdn.recast.ai/blog/pokebot/646.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/646.png",
     "evolutions": [
       {
         "id": 646,
@@ -17955,7 +17955,7 @@
       "fighting"
     ],
     "name": "Keldeo-ordinary",
-    "image": "https://cdn.recast.ai/blog/pokebot/647.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/647.png",
     "evolutions": [
       {
         "id": 647,
@@ -17974,7 +17974,7 @@
       "psychic"
     ],
     "name": "Meloetta-aria",
-    "image": "https://cdn.recast.ai/blog/pokebot/648.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/648.png",
     "evolutions": [
       {
         "id": 648,
@@ -17993,7 +17993,7 @@
       "steel"
     ],
     "name": "Genesect",
-    "image": "https://cdn.recast.ai/blog/pokebot/649.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/649.png",
     "evolutions": [
       {
         "id": 649,
@@ -18011,7 +18011,7 @@
       "grass"
     ],
     "name": "Chespin",
-    "image": "https://cdn.recast.ai/blog/pokebot/650.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/650.png",
     "evolutions": [
       {
         "id": 650,
@@ -18043,7 +18043,7 @@
       "grass"
     ],
     "name": "Quilladin",
-    "image": "https://cdn.recast.ai/blog/pokebot/651.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/651.png",
     "evolutions": [
       {
         "id": 650,
@@ -18076,7 +18076,7 @@
       "fighting"
     ],
     "name": "Chesnaught",
-    "image": "https://cdn.recast.ai/blog/pokebot/652.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/652.png",
     "evolutions": [
       {
         "id": 650,
@@ -18108,7 +18108,7 @@
       "fire"
     ],
     "name": "Fennekin",
-    "image": "https://cdn.recast.ai/blog/pokebot/653.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/653.png",
     "evolutions": [
       {
         "id": 653,
@@ -18140,7 +18140,7 @@
       "fire"
     ],
     "name": "Braixen",
-    "image": "https://cdn.recast.ai/blog/pokebot/654.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/654.png",
     "evolutions": [
       {
         "id": 653,
@@ -18173,7 +18173,7 @@
       "psychic"
     ],
     "name": "Delphox",
-    "image": "https://cdn.recast.ai/blog/pokebot/655.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/655.png",
     "evolutions": [
       {
         "id": 653,
@@ -18205,7 +18205,7 @@
       "water"
     ],
     "name": "Froakie",
-    "image": "https://cdn.recast.ai/blog/pokebot/656.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/656.png",
     "evolutions": [
       {
         "id": 656,
@@ -18237,7 +18237,7 @@
       "water"
     ],
     "name": "Frogadier",
-    "image": "https://cdn.recast.ai/blog/pokebot/657.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/657.png",
     "evolutions": [
       {
         "id": 656,
@@ -18270,7 +18270,7 @@
       "dark"
     ],
     "name": "Greninja",
-    "image": "https://cdn.recast.ai/blog/pokebot/658.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/658.png",
     "evolutions": [
       {
         "id": 656,
@@ -18302,7 +18302,7 @@
       "normal"
     ],
     "name": "Bunnelby",
-    "image": "https://cdn.recast.ai/blog/pokebot/659.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/659.png",
     "evolutions": [
       {
         "id": 659,
@@ -18328,7 +18328,7 @@
       "ground"
     ],
     "name": "Diggersby",
-    "image": "https://cdn.recast.ai/blog/pokebot/660.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/660.png",
     "evolutions": [
       {
         "id": 659,
@@ -18354,7 +18354,7 @@
       "flying"
     ],
     "name": "Fletchling",
-    "image": "https://cdn.recast.ai/blog/pokebot/661.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/661.png",
     "evolutions": [
       {
         "id": 661,
@@ -18387,7 +18387,7 @@
       "flying"
     ],
     "name": "Fletchinder",
-    "image": "https://cdn.recast.ai/blog/pokebot/662.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/662.png",
     "evolutions": [
       {
         "id": 661,
@@ -18420,7 +18420,7 @@
       "flying"
     ],
     "name": "Talonflame",
-    "image": "https://cdn.recast.ai/blog/pokebot/663.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/663.png",
     "evolutions": [
       {
         "id": 661,
@@ -18452,7 +18452,7 @@
       "bug"
     ],
     "name": "Scatterbug",
-    "image": "https://cdn.recast.ai/blog/pokebot/664.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/664.png",
     "evolutions": [
       {
         "id": 664,
@@ -18484,7 +18484,7 @@
       "bug"
     ],
     "name": "Spewpa",
-    "image": "https://cdn.recast.ai/blog/pokebot/665.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/665.png",
     "evolutions": [
       {
         "id": 664,
@@ -18517,7 +18517,7 @@
       "flying"
     ],
     "name": "Vivillon",
-    "image": "https://cdn.recast.ai/blog/pokebot/666.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/666.png",
     "evolutions": [
       {
         "id": 664,
@@ -18550,7 +18550,7 @@
       "normal"
     ],
     "name": "Litleo",
-    "image": "https://cdn.recast.ai/blog/pokebot/667.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/667.png",
     "evolutions": [
       {
         "id": 667,
@@ -18576,7 +18576,7 @@
       "normal"
     ],
     "name": "Pyroar",
-    "image": "https://cdn.recast.ai/blog/pokebot/668.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/668.png",
     "evolutions": [
       {
         "id": 667,
@@ -18601,7 +18601,7 @@
       "fairy"
     ],
     "name": "Flabebe",
-    "image": "https://cdn.recast.ai/blog/pokebot/669.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/669.png",
     "evolutions": [
       {
         "id": 669,
@@ -18633,7 +18633,7 @@
       "fairy"
     ],
     "name": "Floette",
-    "image": "https://cdn.recast.ai/blog/pokebot/670.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/670.png",
     "evolutions": [
       {
         "id": 669,
@@ -18665,7 +18665,7 @@
       "fairy"
     ],
     "name": "Florges",
-    "image": "https://cdn.recast.ai/blog/pokebot/671.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/671.png",
     "evolutions": [
       {
         "id": 669,
@@ -18697,7 +18697,7 @@
       "grass"
     ],
     "name": "Skiddo",
-    "image": "https://cdn.recast.ai/blog/pokebot/672.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/672.png",
     "evolutions": [
       {
         "id": 672,
@@ -18722,7 +18722,7 @@
       "grass"
     ],
     "name": "Gogoat",
-    "image": "https://cdn.recast.ai/blog/pokebot/673.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/673.png",
     "evolutions": [
       {
         "id": 672,
@@ -18747,7 +18747,7 @@
       "fighting"
     ],
     "name": "Pancham",
-    "image": "https://cdn.recast.ai/blog/pokebot/674.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/674.png",
     "evolutions": [
       {
         "id": 674,
@@ -18773,7 +18773,7 @@
       "dark"
     ],
     "name": "Pangoro",
-    "image": "https://cdn.recast.ai/blog/pokebot/675.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/675.png",
     "evolutions": [
       {
         "id": 674,
@@ -18798,7 +18798,7 @@
       "normal"
     ],
     "name": "Furfrou",
-    "image": "https://cdn.recast.ai/blog/pokebot/676.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/676.png",
     "evolutions": [
       {
         "id": 676,
@@ -18816,7 +18816,7 @@
       "psychic"
     ],
     "name": "Espurr",
-    "image": "https://cdn.recast.ai/blog/pokebot/677.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/677.png",
     "evolutions": [
       {
         "id": 677,
@@ -18841,7 +18841,7 @@
       "psychic"
     ],
     "name": "Meowstic-male",
-    "image": "https://cdn.recast.ai/blog/pokebot/678.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/678.png",
     "evolutions": [
       {
         "id": 677,
@@ -18867,7 +18867,7 @@
       "ghost"
     ],
     "name": "Honedge",
-    "image": "https://cdn.recast.ai/blog/pokebot/679.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/679.png",
     "evolutions": [
       {
         "id": 679,
@@ -18900,7 +18900,7 @@
       "ghost"
     ],
     "name": "Doublade",
-    "image": "https://cdn.recast.ai/blog/pokebot/680.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/680.png",
     "evolutions": [
       {
         "id": 679,
@@ -18933,7 +18933,7 @@
       "ghost"
     ],
     "name": "Aegislash-shield",
-    "image": "https://cdn.recast.ai/blog/pokebot/681.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/681.png",
     "evolutions": [
       {
         "id": 679,
@@ -18965,7 +18965,7 @@
       "fairy"
     ],
     "name": "Spritzee",
-    "image": "https://cdn.recast.ai/blog/pokebot/682.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/682.png",
     "evolutions": [
       {
         "id": 682,
@@ -18989,7 +18989,7 @@
       "fairy"
     ],
     "name": "Aromatisse",
-    "image": "https://cdn.recast.ai/blog/pokebot/683.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/683.png",
     "evolutions": [
       {
         "id": 682,
@@ -19013,7 +19013,7 @@
       "fairy"
     ],
     "name": "Swirlix",
-    "image": "https://cdn.recast.ai/blog/pokebot/684.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/684.png",
     "evolutions": [
       {
         "id": 684,
@@ -19037,7 +19037,7 @@
       "fairy"
     ],
     "name": "Slurpuff",
-    "image": "https://cdn.recast.ai/blog/pokebot/685.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/685.png",
     "evolutions": [
       {
         "id": 684,
@@ -19062,7 +19062,7 @@
       "psychic"
     ],
     "name": "Inkay",
-    "image": "https://cdn.recast.ai/blog/pokebot/686.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/686.png",
     "evolutions": [
       {
         "id": 686,
@@ -19088,7 +19088,7 @@
       "psychic"
     ],
     "name": "Malamar",
-    "image": "https://cdn.recast.ai/blog/pokebot/687.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/687.png",
     "evolutions": [
       {
         "id": 686,
@@ -19114,7 +19114,7 @@
       "water"
     ],
     "name": "Binacle",
-    "image": "https://cdn.recast.ai/blog/pokebot/688.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/688.png",
     "evolutions": [
       {
         "id": 688,
@@ -19140,7 +19140,7 @@
       "water"
     ],
     "name": "Barbaracle",
-    "image": "https://cdn.recast.ai/blog/pokebot/689.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/689.png",
     "evolutions": [
       {
         "id": 688,
@@ -19166,7 +19166,7 @@
       "water"
     ],
     "name": "Skrelp",
-    "image": "https://cdn.recast.ai/blog/pokebot/690.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/690.png",
     "evolutions": [
       {
         "id": 690,
@@ -19192,7 +19192,7 @@
       "dragon"
     ],
     "name": "Dragalge",
-    "image": "https://cdn.recast.ai/blog/pokebot/691.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/691.png",
     "evolutions": [
       {
         "id": 690,
@@ -19217,7 +19217,7 @@
       "water"
     ],
     "name": "Clauncher",
-    "image": "https://cdn.recast.ai/blog/pokebot/692.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/692.png",
     "evolutions": [
       {
         "id": 692,
@@ -19242,7 +19242,7 @@
       "water"
     ],
     "name": "Clawitzer",
-    "image": "https://cdn.recast.ai/blog/pokebot/693.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/693.png",
     "evolutions": [
       {
         "id": 692,
@@ -19268,7 +19268,7 @@
       "normal"
     ],
     "name": "Helioptile",
-    "image": "https://cdn.recast.ai/blog/pokebot/694.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/694.png",
     "evolutions": [
       {
         "id": 694,
@@ -19294,7 +19294,7 @@
       "normal"
     ],
     "name": "Heliolisk",
-    "image": "https://cdn.recast.ai/blog/pokebot/695.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/695.png",
     "evolutions": [
       {
         "id": 694,
@@ -19320,7 +19320,7 @@
       "dragon"
     ],
     "name": "Tyrunt",
-    "image": "https://cdn.recast.ai/blog/pokebot/696.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/696.png",
     "evolutions": [
       {
         "id": 696,
@@ -19346,7 +19346,7 @@
       "dragon"
     ],
     "name": "Tyrantrum",
-    "image": "https://cdn.recast.ai/blog/pokebot/697.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/697.png",
     "evolutions": [
       {
         "id": 696,
@@ -19372,7 +19372,7 @@
       "ice"
     ],
     "name": "Amaura",
-    "image": "https://cdn.recast.ai/blog/pokebot/698.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/698.png",
     "evolutions": [
       {
         "id": 698,
@@ -19398,7 +19398,7 @@
       "ice"
     ],
     "name": "Aurorus",
-    "image": "https://cdn.recast.ai/blog/pokebot/699.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/699.png",
     "evolutions": [
       {
         "id": 698,
@@ -19423,7 +19423,7 @@
       "fairy"
     ],
     "name": "Sylveon",
-    "image": "https://cdn.recast.ai/blog/pokebot/700.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/700.png",
     "evolutions": [
       {
         "id": 133,
@@ -19493,7 +19493,7 @@
       "flying"
     ],
     "name": "Hawlucha",
-    "image": "https://cdn.recast.ai/blog/pokebot/701.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/701.png",
     "evolutions": [
       {
         "id": 701,
@@ -19512,7 +19512,7 @@
       "fairy"
     ],
     "name": "Dedenne",
-    "image": "https://cdn.recast.ai/blog/pokebot/702.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/702.png",
     "evolutions": [
       {
         "id": 702,
@@ -19531,7 +19531,7 @@
       "fairy"
     ],
     "name": "Carbink",
-    "image": "https://cdn.recast.ai/blog/pokebot/703.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/703.png",
     "evolutions": [
       {
         "id": 703,
@@ -19549,7 +19549,7 @@
       "dragon"
     ],
     "name": "Goomy",
-    "image": "https://cdn.recast.ai/blog/pokebot/704.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/704.png",
     "evolutions": [
       {
         "id": 704,
@@ -19581,7 +19581,7 @@
       "dragon"
     ],
     "name": "Sliggoo",
-    "image": "https://cdn.recast.ai/blog/pokebot/705.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/705.png",
     "evolutions": [
       {
         "id": 704,
@@ -19613,7 +19613,7 @@
       "dragon"
     ],
     "name": "Goodra",
-    "image": "https://cdn.recast.ai/blog/pokebot/706.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/706.png",
     "evolutions": [
       {
         "id": 704,
@@ -19646,7 +19646,7 @@
       "fairy"
     ],
     "name": "Klefki",
-    "image": "https://cdn.recast.ai/blog/pokebot/707.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/707.png",
     "evolutions": [
       {
         "id": 707,
@@ -19665,7 +19665,7 @@
       "grass"
     ],
     "name": "Phantump",
-    "image": "https://cdn.recast.ai/blog/pokebot/708.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/708.png",
     "evolutions": [
       {
         "id": 708,
@@ -19690,7 +19690,7 @@
       "grass"
     ],
     "name": "Trevenant",
-    "image": "https://cdn.recast.ai/blog/pokebot/709.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/709.png",
     "evolutions": [
       {
         "id": 708,
@@ -19715,7 +19715,7 @@
       "grass"
     ],
     "name": "Pumpkaboo-average",
-    "image": "https://cdn.recast.ai/blog/pokebot/710.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/710.png",
     "evolutions": [
       {
         "id": 710,
@@ -19740,7 +19740,7 @@
       "grass"
     ],
     "name": "Gourgeist-average",
-    "image": "https://cdn.recast.ai/blog/pokebot/711.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/711.png",
     "evolutions": [
       {
         "id": 710,
@@ -19764,7 +19764,7 @@
       "ice"
     ],
     "name": "Bergmite",
-    "image": "https://cdn.recast.ai/blog/pokebot/712.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/712.png",
     "evolutions": [
       {
         "id": 712,
@@ -19789,7 +19789,7 @@
       "ice"
     ],
     "name": "Avalugg",
-    "image": "https://cdn.recast.ai/blog/pokebot/713.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/713.png",
     "evolutions": [
       {
         "id": 712,
@@ -19815,7 +19815,7 @@
       "dragon"
     ],
     "name": "Noibat",
-    "image": "https://cdn.recast.ai/blog/pokebot/714.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/714.png",
     "evolutions": [
       {
         "id": 714,
@@ -19841,7 +19841,7 @@
       "dragon"
     ],
     "name": "Noivern",
-    "image": "https://cdn.recast.ai/blog/pokebot/715.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/715.png",
     "evolutions": [
       {
         "id": 714,
@@ -19866,7 +19866,7 @@
       "fairy"
     ],
     "name": "Xerneas",
-    "image": "https://cdn.recast.ai/blog/pokebot/716.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/716.png",
     "evolutions": [
       {
         "id": 716,
@@ -19885,7 +19885,7 @@
       "flying"
     ],
     "name": "Yveltal",
-    "image": "https://cdn.recast.ai/blog/pokebot/717.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/717.png",
     "evolutions": [
       {
         "id": 717,
@@ -19904,7 +19904,7 @@
       "ground"
     ],
     "name": "Zygarde",
-    "image": "https://cdn.recast.ai/blog/pokebot/718.png",
+    "image": "https://cdn.cai.tools.sap/blog/pokebot/718.png",
     "evolutions": [
       {
         "id": 718,

@@ -2,7 +2,7 @@
   "name": "pokebot-v2",
   "version": "1.0.0",
   "main": "app.js",
-  "author": "Nathan Grasset <nathan.grasset@recast.ai>",
+  "author": "Nathan Grasset <nathan.grasset@sap.com>",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
